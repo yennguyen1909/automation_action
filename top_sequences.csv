@@ -1,0 +1,11 @@
+sequence,count
+assignCodPicking,10035
+assignCodPicking -> assignCodPicking -> assignCodPicking,3158
+assignCodPicking -> assignCodPicking,3069
+assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking,2056
+assignCodPicking -> assignCodPicking -> assignCodPicking -> cfmTransit -> TransferToBothBill,1311
+verifySessionPackage,985
+assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking,927
+cfmTransit -> TransferToBothBill,853
+distributorCfmDeliver,776
+assignCodPicking -> confirmTmpPickedPackageStatus -> updatePickedByCod -> PickupBill -> PickupCrossProvinceBill,598

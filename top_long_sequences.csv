@@ -1,0 +1,11 @@
+sequence,count,length
+assignCodPicking -> assignCodPicking -> assignCodPicking,3158,3
+assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking,2056,5
+assignCodPicking -> assignCodPicking -> assignCodPicking -> cfmTransit -> TransferToBothBill,1311,5
+assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking,927,4
+assignCodPicking -> confirmTmpPickedPackageStatus -> updatePickedByCod -> PickupBill -> PickupCrossProvinceBill,598,5
+assignCodPicking -> confirmTmpPickedPackageStatus -> updatePickedByCod -> PickupBill -> PickupCrossProvinceBill -> cfmTransit -> TransferToBothBill,587,7
+assignCodPicking -> updatePickedByCod -> confirmTmpPickedPackageStatus -> PickupBill -> PickupCrossProvinceBill,539,5
+assignCodPicking -> updatePickedByCod -> confirmTmpPickedPackageStatus -> PickupBill -> PickupCrossProvinceBill -> cfmTransit -> TransferToBothBill,507,7
+putPackages2Bag -> smartScaleScanningPackage -> putInBox,335,3
+assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking -> assignCodPicking,308,6
