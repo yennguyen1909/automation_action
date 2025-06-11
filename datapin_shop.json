@@ -1,0 +1,5568 @@
+[
+  {
+    "dataset_shop": [
+      {
+        "shop_id": "60c8878b-91e8-48dd-9c44-47760a784c68",
+        "shop_order": 19617420,
+        "shop_name": "nguyễn lượng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60cc2bd7-0a54-43a3-94de-40b10a6e4c24",
+        "shop_order": 19642397,
+        "shop_name": "Athena",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60dfdb97-049c-438e-90f7-401d0a6e4d59",
+        "shop_order": 19759339,
+        "shop_name": "Đào Thị Hà",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fbccb28-2288-4667-8364-4a3b0a6e4c25",
+        "shop_order": 18297104,
+        "shop_name": "Doscom",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fc3c57b-39ec-4a1e-865a-4a280a784c65",
+        "shop_order": 18327588,
+        "shop_name": "Tiện ích Xanh - Chi Nhánh Linh Đàm 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5fc632ce-49d0-443c-a58e-43cf0a784c68",
+        "shop_order": 18339664,
+        "shop_name": "Shop quần áo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5fc9010d-66a0-4181-88b5-42190a784c65",
+        "shop_order": 18355283,
+        "shop_name": "anhcham226",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fcb88f2-e078-4ac7-b195-4e340a784c66",
+        "shop_order": 18367296,
+        "shop_name": "Nguyễn lan hương",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fdb2e0c-00f0-4115-a2f2-4dc70a6e4c24",
+        "shop_order": 18442951,
+        "shop_name": "NHÀ MAY BẠT XUÂN CẢNH",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fe07630-eae4-44c1-befe-48e80a6e4c25",
+        "shop_order": 18465056,
+        "shop_name": "Clevai",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5feebba8-72dc-44aa-96dc-4e390a784c68",
+        "shop_order": 18521106,
+        "shop_name": "shop Xinh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ff44092-1d50-4409-aebb-45990a6e4c24",
+        "shop_order": 18542224,
+        "shop_name": "ỐCTiêu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ff49162-e2fc-4470-ae81-4cd90a784c66",
+        "shop_order": 18544025,
+        "shop_name": "Haianmobi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cf8b5fd-6d6c-4dc8-a70a-44340a0a0268",
+        "shop_order": 5905115,
+        "shop_name": "Shop quần áo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cfcadc8-e448-45b6-80fa-492e0a0a0214",
+        "shop_order": 5951303,
+        "shop_name": "Nguyễn Thị Thanh Thuỳ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d06004c-0350-4113-b540-3af80a0a0269",
+        "shop_order": 6069039,
+        "shop_name": "Kim Chung",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d2187d3-8020-413c-889b-45300a0a0210",
+        "shop_order": 6422342,
+        "shop_name": "sam baby shop hà nội",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d36b7f2-ad58-4d1e-bb5f-4e0c0a0a0214",
+        "shop_order": 6722711,
+        "shop_name": "manhcuongdental",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d3fb577-f0d8-4ed6-b6e7-44c60a0a0290",
+        "shop_order": 6839615,
+        "shop_name": "TH DANCE",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d44437c-8860-48a5-8d0c-45180a0a0291",
+        "shop_order": 6909095,
+        "shop_name": "AD Ngọc Mai Maya",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d479683-0ec4-40c3-ac45-4ced0a0a0290",
+        "shop_order": 6947016,
+        "shop_name": "Rimmy design",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d495290-27e4-47dd-8caf-47cb0a0a0291",
+        "shop_order": 6980112,
+        "shop_name": "Monkey Whey",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d4961a0-e274-4952-858d-4f950a0a0291",
+        "shop_order": 6981376,
+        "shop_name": "thanh hà shop live stream",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d502db9-872c-4fa3-81f5-47450a0a0291",
+        "shop_order": 7080868,
+        "shop_name": "cá cảnh hến",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d550494-5ef4-4388-a7dd-4c9d0a0a0291",
+        "shop_order": 7159140,
+        "shop_name": "fb huong nguyen",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d6dd22b-a00c-4ec5-8340-40320a0a0267",
+        "shop_order": 7514248,
+        "shop_name": "cong dental",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d725162-6030-4d62-bd72-43ee0a0a028e",
+        "shop_order": 7594608,
+        "shop_name": "Minh Thành Boutique 135 Trần Hưng Đạo Tp.Thái Bình .",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d7dfb48-4028-4496-a108-46010a0a0210",
+        "shop_order": 7794100,
+        "shop_name": "Mỹ Nhân Đoàn Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a3b5f2f-953c-485f-be67-14510a0a0269",
+        "shop_order": 226846,
+        "shop_name": "Tóc giả Yến Wig",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5a4cdd57-18a8-4acb-a14e-0f440a0a0268",
+        "shop_order": 249449,
+        "shop_name": "LINHLINH0297",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5a5373a5-3ddc-4ca0-b601-47bd0a0a0269",
+        "shop_order": 259951,
+        "shop_name": "Nhym Bagnwallet",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a573d73-31f4-4216-9c26-0dd60a0a0269",
+        "shop_order": 267586,
+        "shop_name": "Hado35",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ab15f7c-47d0-4ee5-8e12-08b10a0a0268",
+        "shop_order": 468709,
+        "shop_name": "Quang Dinh Nguyen",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ab63b16-1fd0-459c-8eab-1c6c0a0a0269",
+        "shop_order": 484685,
+        "shop_name": "ginnie phạm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5aeaa862-cf84-4ae3-afc1-3a930a0a0269",
+        "shop_order": 644149,
+        "shop_name": "Hương Trà Thái",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5af91335-d89c-49ee-aa3a-776e0a0a0268",
+        "shop_order": 694798,
+        "shop_name": "Kachi's House",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b03c7d3-f174-40a5-89b7-78bf0a0a0268",
+        "shop_order": 732942,
+        "shop_name": "Quyên Vũ Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b256882-4fb0-41c4-b783-3de90a0a0268",
+        "shop_order": 1007336,
+        "shop_name": "Shop Mai Loan",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b2d2ddc-ec9c-4d70-a8b3-6b4e0a0a0269",
+        "shop_order": 1027872,
+        "shop_name": "Poppop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b337235-19d8-498b-b053-11ef0a0a0269",
+        "shop_order": 1044536,
+        "shop_name": "Shop Mẹ Su",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b46406d-f9a4-4457-8d1d-01c10a0a0269",
+        "shop_order": 1135204,
+        "shop_name": "Uspox-Siêu thị thể thao chính hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b499830-e50c-45ac-b1a7-38790a0a0269",
+        "shop_order": 1168660,
+        "shop_name": "Trang Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "2775d913-199a-41be-8cb6-2c2cb0c8bce6",
+        "shop_order": 21983154,
+        "shop_name": "Maii nhii",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "2ce642e5-186f-436b-9a46-a55ddc3e1c7c",
+        "shop_order": 22630670,
+        "shop_name": "Thời Trang Nhí",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "2db65676-5511-44cf-a73e-1b4de0989313",
+        "shop_order": 22785737,
+        "shop_name": "PUCINI",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "2f16d309-f28f-42ad-81d9-cd4e510084ef",
+        "shop_order": 22736537,
+        "shop_name": "Cây cảnh văn giang",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "3074a90f-cf49-4cf3-b72a-d8076db45ec8",
+        "shop_order": 22891260,
+        "shop_name": "Linh Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "32d9aa3d-e5bb-413e-9aaa-ca8aab8d73a3",
+        "shop_order": 22854776,
+        "shop_name": "Minh Khoi Shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "336eb524-e593-410e-956c-af1904ce2ccf",
+        "shop_order": 22123203,
+        "shop_name": "Ngọc Linh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "34afc2f0-8efd-4dde-a351-f987e7a6ff99",
+        "shop_order": 22845752,
+        "shop_name": "Thuyvantran",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "35047782-ed45-465e-bdbc-cd5a763529bb",
+        "shop_order": 22693229,
+        "shop_name": "ELMICH ESHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "368d1719-de76-41bb-9743-bd2582497261",
+        "shop_order": 22732514,
+        "shop_name": "Nifty House",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "375b8fa5-5aa1-453e-bab8-87ea91a9dbda",
+        "shop_order": 22688863,
+        "shop_name": "minh tuấn bolero",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "38a69fe0-cf1c-4495-ba79-6f9f74f9c2df",
+        "shop_order": 22719039,
+        "shop_name": "MINAMO",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "38da8f9d-1656-417b-b62d-62258d128bdc",
+        "shop_order": 22592845,
+        "shop_name": "TK_Store to Store_TGDD/ĐMX/TOPZONE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "4170ef0d-c615-43ea-91be-3df9e361aa0e",
+        "shop_order": 22731976,
+        "shop_name": "TIGER SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "42b15578-65d3-4a7b-a448-c77c234e1513",
+        "shop_order": 22937962,
+        "shop_name": "Mỹ Phẩm Lê Vân Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "4555cb03-2a93-4d69-ba3c-0434d84adb30",
+        "shop_order": 22908601,
+        "shop_name": "BLUE CHIC PLUS",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "45bdd345-b76b-433b-8589-c0db81705616",
+        "shop_order": 22910071,
+        "shop_name": "Middua",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "474e82ec-e84f-4c29-83a7-1604ac5f038d",
+        "shop_order": 21850065,
+        "shop_name": "VŨ BẢO SPORT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "496896e6-4c54-4f13-be57-bf16ec22615a",
+        "shop_order": 22749241,
+        "shop_name": "MC FASHION  TEAM LUẬT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "4d01cbb9-d5ec-47b6-9217-c5c7d00e365c",
+        "shop_order": 22543838,
+        "shop_name": "Hạc Stories",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "4d6b5407-640b-465b-80bd-98d4cbcc35ee",
+        "shop_order": 22541727,
+        "shop_name": "Chuyên túi nhà mitmitsusu",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "54f808aa-3cfd-4aca-9341-f595e6bf9a51",
+        "shop_order": 22820602,
+        "shop_name": "Lê Quý Trình",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "54fdbb7d-b264-46e3-8cf8-4a4dd2d36175",
+        "shop_order": 5680,
+        "shop_name": "shop chợ mỹ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "552d0e25-ca46-43bc-a9d1-f4041344b092",
+        "shop_order": 22341645,
+        "shop_name": "Quỳnh Thương",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "55c0fb41-7a10-4d72-abf6-f755d2d36175",
+        "shop_order": 7672,
+        "shop_name": "Tín Đồ Tai Nghe",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "56694523-d72c-47a3-8d4a-6cf1d2d36175",
+        "shop_order": 13470,
+        "shop_name": "Chi Huong's Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "56b2f6df-f04c-4b59-b27c-e373d2d36175",
+        "shop_order": 14913,
+        "shop_name": "Sanvajulie",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "57983fdb-d898-4903-bb9a-5b5460cd0d32",
+        "shop_order": 21944303,
+        "shop_name": "Hà Anh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "57dbb9d1-c200-4c34-ba01-57edd2f55948",
+        "shop_order": 30868,
+        "shop_name": "Lan Huong Boutique",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5838d9e3-434c-4e39-82a5-9bd07a0e024d",
+        "shop_order": 22031389,
+        "shop_name": "Nguyễn Hương",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5844beaa-cab8-4833-a380-76f1d2f5594a",
+        "shop_order": 37269,
+        "shop_name": "công ty quang sáng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "58452147-ab34-40b4-95e2-6af1d2f5594a",
+        "shop_order": 37327,
+        "shop_name": "Xipi.vn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "585788f0-46b4-48c7-ba9a-567bd2f5594a",
+        "shop_order": 38938,
+        "shop_name": "Perfume Auth",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "58b6add0-4659-4c91-a3bb-62df12098cd7",
+        "shop_order": 22629098,
+        "shop_name": "Lanabeauty",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "58beab2c-a20c-48cc-9be7-3338d2f5594a",
+        "shop_order": 46910,
+        "shop_name": "Lady Perfume",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "58e33f49-72d8-4ae3-8c42-6cf0d2f5594a",
+        "shop_order": 50516,
+        "shop_name": "Meomo",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "59108310-e960-4988-9490-7b1dd2f5594a",
+        "shop_order": 56254,
+        "shop_name": "Linh Anna",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "591833f6-1441-4c3e-87e2-10a02f47067c",
+        "shop_order": 22925790,
+        "shop_name": "Bảo Tín",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "59684322-4f8c-4731-a161-72616723400f",
+        "shop_order": 69659,
+        "shop_name": "QAShop.vn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "596ebdbf-51ac-44a7-bf44-430b6723400f",
+        "shop_order": 70969,
+        "shop_name": "MeVi Cosmetics",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "59c0a0a4-f4e4-41a2-87a5-7abe0a0a0004",
+        "shop_order": 99451,
+        "shop_name": "Đỗ Thu Giang",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "59df82c4-357c-45cf-a467-6fee0a0a0004",
+        "shop_order": 112965,
+        "shop_name": "STORE - THỜI TRANG VIỆT **",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "59e6b8db-d34c-4a64-8ed9-7c950a0a010a",
+        "shop_order": 120264,
+        "shop_name": "Công ty CP kiến Trắng - Thời Trang White Ant",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "00bd5f13-4658-4cf9-a8ec-f9caf6fd142a",
+        "shop_order": 22027388,
+        "shop_name": "tailoc68",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "024c0f5d-0a9d-4972-837f-ba715950b87f",
+        "shop_order": 22749641,
+        "shop_name": "Gia Dụng Thông Minh S1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "04bd544f-60d4-4796-9eaf-a455a45c4d6b",
+        "shop_order": 22417032,
+        "shop_name": "Thuy huong",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "04bff214-e826-4fe1-bb17-8c85e84b6f71",
+        "shop_order": 22844020,
+        "shop_name": "OHUI Chính hãng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "04f4bacb-459c-45db-95d6-8861b5368976",
+        "shop_order": 22933508,
+        "shop_name": "Shop Tuyết",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "06d76e25-297d-47f3-82e4-bb71a7141ab4",
+        "shop_order": 22868980,
+        "shop_name": "Mai Ly",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "0d2bf7a1-ea64-4506-b020-ddc6894b8a6a",
+        "shop_order": 22894782,
+        "shop_name": "DAD store 3",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "0f9d2da6-917f-4340-9d44-84eb1fcf41ad",
+        "shop_order": 22077216,
+        "shop_name": "Shiba",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "12abf8a4-2e65-4289-9527-e917a863c08f",
+        "shop_order": 22804960,
+        "shop_name": "Thuan",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "134d8f1f-9726-41ce-b1ef-958a23f97cb7",
+        "shop_order": 22701769,
+        "shop_name": "DLUNA SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "182b2d68-dd94-421b-a890-c762fda449c9",
+        "shop_order": 22589009,
+        "shop_name": "QH Fruits",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "18827f5a-c595-478a-922d-e8dc1a737ed7",
+        "shop_order": 22711913,
+        "shop_name": "Zonbig",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "188408ae-b017-4d4e-b0e9-db2cb17422f8",
+        "shop_order": 21676742,
+        "shop_name": "Tống Hàn Phương Phanh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "18d95e82-7c97-4a51-8f18-9623f75b4a7e",
+        "shop_order": 22804281,
+        "shop_name": "DMP Nova Care",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "194ccf72-f175-426d-8f27-4e2cdc8036b5",
+        "shop_order": 22936396,
+        "shop_name": "LevananhFashion",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "1bf15c4b-168e-4350-af8f-72f351a2e5da",
+        "shop_order": 22843738,
+        "shop_name": "Gia Dụng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "1d183af0-85fc-4b7d-8971-1c4210c31894",
+        "shop_order": 22834865,
+        "shop_name": "QUẦN ÁO THỜI TRANG",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "24b6f9b1-dae2-40cd-9ed6-cc309a06aada",
+        "shop_order": 22781592,
+        "shop_name": "Hai Phượng Boutique",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "26efc676-fe7b-487f-bfc6-febd543d0576",
+        "shop_order": 22924807,
+        "shop_name": "LANH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c2e1b5d-c7e4-4c5b-8383-62130a0a0269",
+        "shop_order": 3593747,
+        "shop_name": "mã vạch cũ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c300c25-1904-47b6-b5ec-60ea0a0a0269",
+        "shop_order": 3617931,
+        "shop_name": "TTSKNK - Century",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c332b46-821c-4c9e-9787-45430a0a0267",
+        "shop_order": 3664135,
+        "shop_name": "trần thế anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c340e11-c030-4da8-8d3e-41350a0a0211",
+        "shop_order": 3673255,
+        "shop_name": "Quỳnh Nguyễn Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c36c465-269c-4de6-82bf-2bda0a0a0269",
+        "shop_order": 3715907,
+        "shop_name": "Thời trang Hana Closet",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c441777-b484-4875-9a4b-4c1c0a0a0214",
+        "shop_order": 3878291,
+        "shop_name": "Hồng Hồng Boutiqeeeee",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c6230de-3c5c-4414-9fe7-4c620a0a0267",
+        "shop_order": 4053439,
+        "shop_name": "SHOP IZY BY NHI BIGSIZE",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c627e8a-a474-46bd-9106-4f4f0a0a0210",
+        "shop_order": 4059555,
+        "shop_name": "Shop Đai Lưng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c6bc473-475c-4ead-90f1-566d0a0a0268",
+        "shop_order": 4151671,
+        "shop_name": "Fashion LK07",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c6c264b-8104-4faf-96cc-31010a0a0269",
+        "shop_order": 4156779,
+        "shop_name": "zuni.K&N shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c74a215-ed58-4785-ba05-4b5c0a0a0214",
+        "shop_order": 4240407,
+        "shop_name": "Dr Tuấn_Skincare",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c870d22-3b38-4515-ac3b-414e0a0a0267",
+        "shop_order": 4462760,
+        "shop_name": "Xưởng sản xuất phụ kiện",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c89ec87-8858-42bf-ab31-7cd80a0a0269",
+        "shop_order": 4503868,
+        "shop_name": "Khuê House",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c92b186-32bb-41f0-8500-d8915bbe85d7",
+        "shop_order": 22933040,
+        "shop_name": "Kim thoa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c9b84c5-b200-4448-83a6-42b80a0a0210",
+        "shop_order": 4727496,
+        "shop_name": "iGHTK",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c9c4d4b-8320-4004-b91d-41fd0a0a0210",
+        "shop_order": 4734800,
+        "shop_name": "tô diệu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ca37acb-d9d4-4204-8d71-400e0a0a0267",
+        "shop_order": 4826736,
+        "shop_name": "Elle Aime",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5caeaf76-caf8-4714-a34e-45880a0a0267",
+        "shop_order": 4973384,
+        "shop_name": "Cie Cie House",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5cb56d53-ab08-4f80-ba81-4a7b0a0a0267",
+        "shop_order": 5048708,
+        "shop_name": "Hoàng Cẩm Chi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cbd896e-3660-440c-ad79-41dd0a0a027f",
+        "shop_order": 5162756,
+        "shop_name": "HOA TRÀ APP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cc01b5c-6acc-453e-8f3b-07df0a0a0269",
+        "shop_order": 5199416,
+        "shop_name": "Ngân Linh Mobile",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ccb86d6-3e81-4ccf-8c9e-838e1a3814c8",
+        "shop_order": 22789487,
+        "shop_name": "HVG SHOP3",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cce88c4-9240-4e7b-8c55-44e40a0a0267",
+        "shop_order": 5358620,
+        "shop_name": "Ngocanhkorean",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ce0c491-080c-4f69-8b75-48ba0a0a0267",
+        "shop_order": 5603542,
+        "shop_name": "Công Ty Việt Nhật",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ce4bbb5-bda0-41af-8b9b-4f210a0a0210",
+        "shop_order": 5650634,
+        "shop_name": "WEMAN",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ce8f5cf-c9e0-4041-a28b-4e680a0a0267",
+        "shop_order": 5707871,
+        "shop_name": "shophoanghien1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b5443bc-f9c0-4b25-a315-20040a0a0269",
+        "shop_order": 1280788,
+        "shop_name": "út bình châu",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b580ded-e7f4-4f89-9100-65060a0a0269",
+        "shop_order": 1320252,
+        "shop_name": "GIẤY RÚT MAY MẮN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b7240e1-1988-4b42-9102-72340a0a0268",
+        "shop_order": 1582049,
+        "shop_name": "tuan106",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b79a2bc-8088-4179-b1be-4cf30a0a0269",
+        "shop_order": 1657509,
+        "shop_name": "Triệu Bảo",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b7f8b22-1dd4-4dc8-a05e-79230a0a0268",
+        "shop_order": 1714921,
+        "shop_name": "huyen thi 16",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b8a9e81-b1b4-42f0-b619-429f0a0a0269",
+        "shop_order": 1812085,
+        "shop_name": "Charm By Tea /gọi 0949140011 để hỏi về đơn hàng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ba12b43-f718-40e4-ae59-64930a0a0268",
+        "shop_order": 2013821,
+        "shop_name": "Zele.swimwear",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ba8939e-4998-4638-a79b-6ba40a0a0269",
+        "shop_order": 2065774,
+        "shop_name": "D.H Cosmetics-Khun Khao Boutique",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5baadf28-7398-4014-a484-4d310a0a0214",
+        "shop_order": 2080507,
+        "shop_name": "3S shoes (Tạ Thị Thu Thảo)",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5bc181a1-df10-47c0-bf9e-435d0a0a0210",
+        "shop_order": 2301862,
+        "shop_name": "thanhvan",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5bc5706f-2130-4cb3-bc4e-46930a0a0214",
+        "shop_order": 2341622,
+        "shop_name": "Gomi Authentic",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5be1a18a-7bcc-43d9-85fc-5e4e0a0a0268",
+        "shop_order": 2634524,
+        "shop_name": "An Phạm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5bebd3c0-1b78-4bf0-a03a-58c80a0a0269",
+        "shop_order": 2749020,
+        "shop_name": "thanh loan. chang. hà my store. 0398974810",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5bf03c5f-f7df-4276-8b3a-c50faf3b0695",
+        "shop_order": 22747681,
+        "shop_name": "HKD HẢI ANH GARMENT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5bfcc94c-7920-47d9-8b6f-20f60a0a0268",
+        "shop_order": 2966008,
+        "shop_name": "Ha Le Giày khiêu vũ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c069e2e-c484-4007-bd62-4da20a0a0210",
+        "shop_order": 3131240,
+        "shop_name": "hoài nguyễn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c0e5211-0d94-41a4-a587-419d0a0a0210",
+        "shop_order": 3223380,
+        "shop_name": "Linh Thuỳ - Bigsize Quảng Châu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c1df047-6598-45a1-b81c-41720a0a0265",
+        "shop_order": 3408036,
+        "shop_name": "Đậu Đậu Baby Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c2c5a9b-396c-49ac-9ca0-70230a0a0269",
+        "shop_order": 3563767,
+        "shop_name": "nguyễn ánh palido",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ebbb815-4614-4bbb-addb-4eb20a0a342d",
+        "shop_order": 13208015,
+        "shop_name": "Decal Tây - Nguyên",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ebbc2ad-c0cc-4b7e-bc11-4cd60a6e4c47",
+        "shop_order": 13209389,
+        "shop_name": "Thithanh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ebf554f-f100-4503-8f8c-4e530a0a0266",
+        "shop_order": 13268258,
+        "shop_name": "Thụy Hà Cosmetics.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ec62ccd-d650-4674-ad90-47930a6e4c48",
+        "shop_order": 13396448,
+        "shop_name": "Next Nobels Sách",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ec74879-f980-4e23-8615-47da0a6e4c49",
+        "shop_order": 13413680,
+        "shop_name": "cty Kin",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ed0efc0-183c-4199-bdf2-b3b50a0a0265",
+        "shop_order": 13580888,
+        "shop_name": "ICHIBAN 3",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ed5d7de-30f4-407d-9fbd-48aa0a6e4c46",
+        "shop_order": 13658690,
+        "shop_name": "Dien May Sakura",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ed867d4-c010-41d9-8072-4bed0a6e4c26",
+        "shop_order": 13704071,
+        "shop_name": "TiDi Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5edf5845-2698-45ed-b8af-47e50a6e4c23",
+        "shop_order": 13817629,
+        "shop_name": "ZEN 2HAND",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ee03c5a-b0f8-45a7-b461-40110a6e4c23",
+        "shop_order": 13829659,
+        "shop_name": "CHI NHÁNH CÔNG TY CỔ PHẦN CÔNG NGHỆ F5",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ee231f6-423c-4ed6-8886-48b00a6e4c24",
+        "shop_order": 13874622,
+        "shop_name": "shop đồ pha lê châu âu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ef1b8cc-50cc-49d6-98fb-49480a6e4c48",
+        "shop_order": 14180032,
+        "shop_name": "BAMOZO OFFICIAL",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ef40193-a8e4-4a8b-9e45-44290a6e4c23",
+        "shop_order": 14221432,
+        "shop_name": "Maria Px Nga (Mẹ Ken)",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5efabd1a-3ca4-49fc-b192-4b650a6e4c47",
+        "shop_order": 14346403,
+        "shop_name": "hiddenvintage",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5efb1cae-781c-45ca-a75d-481e0a6e4c24",
+        "shop_order": 14359099,
+        "shop_name": "Hạnh Quắt",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5efc7826-19a8-4dc6-a84d-444f0a6e4c24",
+        "shop_order": 14386078,
+        "shop_name": "Vat Lieu Nha Khoa",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f029b73-7ec8-4b7e-bc9f-404c0a784c1c",
+        "shop_order": 14491699,
+        "shop_name": "Chòe Than Luận.,",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e09a856-441c-48ea-a478-45410a0a0267",
+        "shop_order": 9939416,
+        "shop_name": "Leenaa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e3acfe6-c23c-4b27-a561-48210a0a0267",
+        "shop_order": 10417742,
+        "shop_name": "vân thỏ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e5286c5-e660-4e4d-8834-5c7e0a0a027f",
+        "shop_order": 10825988,
+        "shop_name": "choangg choang bigsize",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e674d8a-3064-431a-b026-4e680a0a0290",
+        "shop_order": 11239595,
+        "shop_name": "trung",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e676e27-cee8-45f5-b3bd-45000a0a0290",
+        "shop_order": 11244092,
+        "shop_name": "Lan Bigsize Nữ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5da0021a-72a8-4bfd-a3df-4fa90a0a0210",
+        "shop_order": 8382374,
+        "shop_name": "Phuong Lee",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5db18f96-5e08-4461-bf42-436a0a0a0290",
+        "shop_order": 8671236,
+        "shop_name": "kính Luxury",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5db2f77b-3a40-42e8-8f22-45da0a0a028e",
+        "shop_order": 8694216,
+        "shop_name": "S219Team/LHC",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5db63b21-34fc-4f36-83b1-46db0a0a027f",
+        "shop_order": 8731352,
+        "shop_name": "thuốc nam người dao thái nguyên",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5db64e63-c7e8-485d-9295-4b880a0a0267",
+        "shop_order": 8732516,
+        "shop_name": "Dương Bảo Trang",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5db7fbd8-8320-4459-8a61-492a0a0a0267",
+        "shop_order": 8767056,
+        "shop_name": "shop tú quang",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5dc0f7b3-c6dc-4509-8e98-4c230a0a0210",
+        "shop_order": 8901684,
+        "shop_name": "PHƯƠNG HÍP AUTHENTIC JP",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5dc5ad27-d34c-4bc9-9f57-44ef0a0a0290",
+        "shop_order": 8987680,
+        "shop_name": "HằngLatany",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ddf5473-8f08-4d09-8dbb-4fec0a0a028f",
+        "shop_order": 9363636,
+        "shop_name": "nhi_authentic",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5de87895-6074-41a7-b1e4-418f0a0a0267",
+        "shop_order": 9483042,
+        "shop_name": "mei mei shop1289",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e733ecf-16e4-41d3-99b6-48260a0a0290",
+        "shop_order": 11543033,
+        "shop_name": "Phụ tùng ô tô Kiều Gia",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e776a2c-7114-46f3-9269-491c0a0a028e",
+        "shop_order": 11642438,
+        "shop_name": "Hân Kiên",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e82cb71-a310-4cb4-91ca-4eae0a0a028e",
+        "shop_order": 11909726,
+        "shop_name": "Spa Nguyễn Duyên",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e875624-9ff8-4d91-b61a-49e40a0a028e",
+        "shop_order": 12032102,
+        "shop_name": "Đồ Chơi Xe TH shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e8aec41-6a70-4397-ab27-44690a6e4c23",
+        "shop_order": 12116792,
+        "shop_name": "Phụ tung ô tô Minh Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e8c3125-36b8-4974-9224-4fcd0a6e4c23",
+        "shop_order": 12150668,
+        "shop_name": "Đặng Thu Trang 199x",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e9016b3-30ec-4b1e-b7ea-4a500a0a0292",
+        "shop_order": 12259022,
+        "shop_name": "Nhung Seven Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e915ced-7a84-427e-9506-4e0e0a6e4c49",
+        "shop_order": 12294812,
+        "shop_name": "Hoàn Lô",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e99bcb3-928c-47cb-b132-405c0a6e4c47",
+        "shop_order": 12533447,
+        "shop_name": "Thời Trang Hoàng Tùng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e9afa15-dbf4-45b5-864c-9cb30a0a020b",
+        "shop_order": 12565889,
+        "shop_name": "Vũ Thị Thành - Sông Lô",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e9d67d9-55f8-4afd-a3ef-455b0a6e4c26",
+        "shop_order": 12624110,
+        "shop_name": "Ary Perfume",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e9e5fb2-4258-4e3f-93dc-4a220a6e500a",
+        "shop_order": 12643283,
+        "shop_name": "Bộ đàm chính hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ea6e961-d78c-4b7d-bde1-43b10a6e4c23",
+        "shop_order": 12843770,
+        "shop_name": "Tân Vũ Minh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ea902b7-6a6c-4e67-a2f8-44c60a6e4c49",
+        "shop_order": 12876686,
+        "shop_name": "Tiện Ích Cao Cấp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ea966fd-090c-4574-9850-46a70a6e4c23",
+        "shop_order": 12887258,
+        "shop_name": "Shop SEN- si tuyển",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5eab8775-320c-483c-aed1-4da10a6e4c49",
+        "shop_order": 12911426,
+        "shop_name": "ManhTien",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ead15b9-21b4-4dfb-88aa-c0dd0a6e4c26",
+        "shop_order": 12933167,
+        "shop_name": "Hàng Đức Vân Hoàng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f68cc85-9470-48aa-af4d-49840a6e4c24",
+        "shop_order": 16768957,
+        "shop_name": "Chuyên hàng nội địa chính hãng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f7a8cd1-add8-4589-abaa-47f30a6e4c49",
+        "shop_order": 17127064,
+        "shop_name": "thời trang QC đẹp miễn chê",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f7ff91f-df64-4aa5-9223-4aca0a6e4c25",
+        "shop_order": 17249809,
+        "shop_name": "trịnh quốc linh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f97b474-fa48-4234-8d9f-40580a784c65",
+        "shop_order": 17782922,
+        "shop_name": "Trịnh Tú Authentic",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f9bcdfe-7b68-4a24-91db-4cce0a6e4cd2",
+        "shop_order": 17884079,
+        "shop_name": "Shop .Quang Minh.",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f9eb257-9b68-4651-b1ad-41810a6e4c25",
+        "shop_order": 17945993,
+        "shop_name": "đông trùng gia lâm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5fabc4da-cdb8-46f9-adf8-48450a784c65",
+        "shop_order": 18219116,
+        "shop_name": "Hoàng Anh cosmetics",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f1275e2-09c4-4d93-b97d-41400a6e4c49",
+        "shop_order": 14786830,
+        "shop_name": "Alice Bridal",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f2a48b5-b1a8-4fe2-bc50-50f60a6e4c48",
+        "shop_order": 15259660,
+        "shop_name": "Nem Cosmetic",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f3f3924-fb8c-40e6-9dc1-45fa0a6e4c23",
+        "shop_order": 15766288,
+        "shop_name": "Nam Main",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f3fe05a-7ad4-4ed2-a596-4a680a6e4c47",
+        "shop_order": 15790276,
+        "shop_name": "HANA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f44e653-6cd4-4620-9a68-45a80a6e4c23",
+        "shop_order": 15908044,
+        "shop_name": "HÀ BOUTIQUE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f48f41d-32f8-4db0-b529-4f3b0a6e4c25",
+        "shop_order": 16007254,
+        "shop_name": "Anh orange",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f5212ab-fe50-46a1-bdc2-43d00a6e4c24",
+        "shop_order": 16216492,
+        "shop_name": "bi8.authentic",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f530dcb-6c40-4844-9e54-45950a784c18",
+        "shop_order": 16233280,
+        "shop_name": "ICHIBAN 4",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f5b8da7-de80-4db4-96b4-49f10a6e4c46",
+        "shop_order": 16429537,
+        "shop_name": "Trang Nguyen Boutique",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f5e0591-8c50-4791-9994-43040a6e4c23",
+        "shop_order": 16484332,
+        "shop_name": "Long Tran",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "62babef1-bd54-4e7a-8b16-4e4d0a6e4c24",
+        "shop_order": 21660367,
+        "shop_name": "SF Express",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62caebc4-8f10-4eae-85e6-49530a6e4d59",
+        "shop_order": 21681524,
+        "shop_name": "Thái Y Đường",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62d91105-a424-4a34-aadc-49f50a6e4c24",
+        "shop_order": 21702173,
+        "shop_name": "Minh Thu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62de0cf0-c700-4edd-baf2-444f0a6e4d76",
+        "shop_order": 21708243,
+        "shop_name": "SHOP KHÁNH PHƯƠNG",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62fca385-0d98-4395-8867-405e0a6e4cd2",
+        "shop_order": 21751666,
+        "shop_name": "Deman.Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6304457a-0978-47d6-a47d-4d760a6e4d76",
+        "shop_order": 21762099,
+        "shop_name": "Quần Áo Thể Thao",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "630586ec-41dc-434e-b2f7-45850a6e4c24",
+        "shop_order": 21763932,
+        "shop_name": "SF Express",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63075610-7e28-499b-a1bc-4ed30a6e4cd3",
+        "shop_order": 21767121,
+        "shop_name": "Món Quà Đà Lạt",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "630d7241-2854-4ff9-94da-42e90a6e4d74",
+        "shop_order": 21774785,
+        "shop_name": "Quần áo Thiết kế",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63214c4b-2c9c-47f6-a1dd-492f0a6e4d78",
+        "shop_order": 21799191,
+        "shop_name": "Bibo Túi**",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "633a765d-81c0-4578-8a7c-47260a6e4cd4",
+        "shop_order": 21834737,
+        "shop_name": "Kho Thời Trang Xuất Dư",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "634f57d3-3190-4b08-898b-47a80a6e4d76",
+        "shop_order": 21862547,
+        "shop_name": "Shop BBS*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63608832-d5d8-40ee-b174-40e10a6e4e64",
+        "shop_order": 21882538,
+        "shop_name": "Tip Life",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "637da4cb-8f20-4f9c-a735-4d8f0a6e4d76",
+        "shop_order": 21922018,
+        "shop_name": "KIM ANH BUI HIHI",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63871111-e470-4a0a-8b79-49bb0a6e4e66",
+        "shop_order": 21934753,
+        "shop_name": "Shop cũ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "638ac0b1-1404-4c5d-85a2-43840a6e4cd2",
+        "shop_order": 21939600,
+        "shop_name": "UniLook",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "638ebe99-2e70-4ad9-9a16-42900a6e4d78",
+        "shop_order": 21944558,
+        "shop_name": "_ỐC SHOP_",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63984097-a4c4-48f2-8980-42230a6e4d77",
+        "shop_order": 21956747,
+        "shop_name": "SelalaBra",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "639be055-2428-403d-9eb1-4c730a6e4d77",
+        "shop_order": 21961567,
+        "shop_name": "cửa hàng mỹ phẩm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63a11e60-7d44-4c70-8bfe-47db0a6e4c39",
+        "shop_order": 21967794,
+        "shop_name": "ROVINA SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63e0bf95-d030-47f8-8734-404d0a6e4c39",
+        "shop_order": 22025987,
+        "shop_name": "Nga shop fashion",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63f5da46-df00-408c-9949-48670a6e4d77",
+        "shop_order": 22051740,
+        "shop_name": "Tiên Tiên VNXK",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6410712f-ad28-4354-89bd-43740a6e4c39",
+        "shop_order": 22082782,
+        "shop_name": "HI, SHOP LINGERIE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "641aaeab-aa8c-4022-b0c4-4d670a6e4e64",
+        "shop_order": 22094105,
+        "shop_name": "HẠT GIỐNG NÔNG NGHIỆP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64228f77-00b8-486a-8bf7-4de50a6e4c39",
+        "shop_order": 22102888,
+        "shop_name": "SAKA LIFE - Gia Dụng Nhật Bản",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "642bd6f5-791c-4237-a7a3-427a0a6e4e64",
+        "shop_order": 22113417,
+        "shop_name": "SangDuong Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "642ce8d5-7c28-4557-987f-40620a6e4e64",
+        "shop_order": 22114386,
+        "shop_name": "Bếp Quê Hương",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6454c1c6-1b08-4fdc-8115-44c30a6e4cd4",
+        "shop_order": 22151706,
+        "shop_name": "Nhung Bieee",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "645dbe38-1860-47c2-90aa-412a0a6e4c39",
+        "shop_order": 22160375,
+        "shop_name": "KINH BẮC 5",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "646ecf41-4400-49c7-9200-4f1f0a6e4c39",
+        "shop_order": 22176369,
+        "shop_name": "Gia Dụng Minh Anh **",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6476a5e9-75e4-4f89-b5f3-470c0a6e4d76",
+        "shop_order": 22183368,
+        "shop_name": "H.T Menswear",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64816000-effc-4707-8561-4a3a0a6e4c39",
+        "shop_order": 22193549,
+        "shop_name": "Shop Tranh gỗ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6487f8f0-12d8-4773-8aa0-4d960a6e4c39",
+        "shop_order": 22199684,
+        "shop_name": "LN Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6489cf7e-823a-42b1-8cd6-1c8bb2f0b57a",
+        "shop_order": 22651158,
+        "shop_name": "DOSCOM",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6492ac9a-c0b0-4b11-8f7b-46c20a6e4c39",
+        "shop_order": 22210952,
+        "shop_name": "Grilla Books",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6498fc1c-5db0-4be5-a827-41030a6e4c39",
+        "shop_order": 22216551,
+        "shop_name": "Bé Xinh Shop QATE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "649a9d2c-a748-45c4-ae95-4c8f0a6e4c39",
+        "shop_order": 22218567,
+        "shop_name": "Hội đồng cấp cao mỹ phẩm chính hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64d348bc-7b30-4e4e-a45b-44070a6e4c3a",
+        "shop_order": 22277934,
+        "shop_name": "Shop Thảo Nhiên",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64e2c7db-6490-4bc3-8fc9-4c560a6e4da3",
+        "shop_order": 22294434,
+        "shop_name": "Hẻm Dress",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "651a25a9-4be8-4410-86ad-4ccb0a6e4e65",
+        "shop_order": 22349845,
+        "shop_name": "Tổng Kho",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6530d2d4-6900-4989-9e0c-49830a6e4c3a",
+        "shop_order": 22373487,
+        "shop_name": "Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6556dcfe-30c0-443b-a1f2-47470a6e4c39",
+        "shop_order": 22409642,
+        "shop_name": "XƯỞNG CHĂN GA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65594f48-ac1f-4f7c-aaad-b40c9525667c",
+        "shop_order": 21706320,
+        "shop_name": "ＷＩＳＨＯＰ - ᴄʟᴏᴛʜɪɴɢ ᴋɪᴅs",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "655ae1bc-42bc-4002-9f90-464c0a6e4e64",
+        "shop_order": 22413150,
+        "shop_name": "CÔNG TY TNHH THIẾT BỊ VẬT TƯ MINH THÀNH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "656ed008-9b9c-467a-887f-43e80a6e4d58",
+        "shop_order": 22433115,
+        "shop_name": "Shop Tiện Lợi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65790e88-cdd8-47b5-aaa9-49b00a6e4c3b",
+        "shop_order": 22443422,
+        "shop_name": "Tiệm Nhà Hà My",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65dbeea3-4de8-4bc6-896c-4ce70a6e4d77",
+        "shop_order": 22520346,
+        "shop_name": "SÁCH BẤM HUYỆT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65dc47b3-dff0-43dd-bfaa-41380a6e4d78",
+        "shop_order": 22520855,
+        "shop_name": "Weupbooks",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65e6069d-8124-4cfd-8f27-485e0a6e4d58",
+        "shop_order": 22529823,
+        "shop_name": "Khánh Linh Store.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66165a10-4ab4-493c-bd70-47930a6e4ec8",
+        "shop_order": 22568831,
+        "shop_name": "Cao xoa bóp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6623721d-ab68-4717-a4ca-45280a6e4d74",
+        "shop_order": 22578549,
+        "shop_name": "KIM NGÂN 6688",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6630d9ef-8970-42de-a12d-41620a6e4c3d",
+        "shop_order": 22586946,
+        "shop_name": "TIỆN ÍCH XANH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66334721-6470-46d6-ae3f-41300a6e4da3",
+        "shop_order": 22588165,
+        "shop_name": "Phụ kiện Oto",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "663a330d-3ee4-4c2e-a559-482b0a6e4cd4",
+        "shop_order": 22593533,
+        "shop_name": "Linh Tây",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66446f22-1558-4964-b5bc-4ba80a6e4c39",
+        "shop_order": 22600879,
+        "shop_name": "mỹ phẩm trang điểm 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66473243-1d34-4915-8acf-42ee0a6e4d75",
+        "shop_order": 22602901,
+        "shop_name": "*Thế giới trang sức",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6662c49a-bc9c-4859-a22c-0a310a6e4d78",
+        "shop_order": 22622012,
+        "shop_name": "Shop Xinh Xinh 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66667bf3-3d74-48f1-81c3-4ef10a6e4c3b",
+        "shop_order": 22624573,
+        "shop_name": "Khả Vy Shop..",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6666a676-3a6c-4073-ada7-45f70a6e4d78",
+        "shop_order": 22624828,
+        "shop_name": "Kiều Linh (Quỳnh Anh Store)",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6674fd70-2250-484a-9269-46060a6e4c3c",
+        "shop_order": 22635205,
+        "shop_name": "CEC Nhánh 2.2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66791519-3ea0-4953-939d-41770a6e4d78",
+        "shop_order": 22637837,
+        "shop_name": "CEC Nhánh 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6679156d-61a4-4546-96ca-4bc80a6e4eca",
+        "shop_order": 22637839,
+        "shop_name": "CEC Nhánh 2.1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "667f7a00-b864-4fcf-9e38-45630a6e4c3a",
+        "shop_order": 22642142,
+        "shop_name": "Shop Trung tâm chăm sóc xe hơi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "668648da-47e8-43c7-98ac-4b270a6e4c3a",
+        "shop_order": 22646852,
+        "shop_name": "Gia dụng TH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6687a60e-ba44-49eb-a523-475a0a6e4c3c",
+        "shop_order": 22647867,
+        "shop_name": "Shop Đồ bộ Bảo An",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6688b422-5e3c-47cd-8076-41bb0a6e4cd3",
+        "shop_order": 22648459,
+        "shop_name": "BVC Store*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "668df9b8-68a8-4df2-988c-4d990a6e4c3b",
+        "shop_order": 22652133,
+        "shop_name": "Sollina Việt Nam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6698ec54-d18c-4ffe-ba29-4b8d0a6e4c3a",
+        "shop_order": 22660442,
+        "shop_name": "Tổng Kho hoa lụa Thái Vân 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66b084c1-12ac-4527-94f1-471c0a6e4eca",
+        "shop_order": 22678664,
+        "shop_name": "Nhungg shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66b197c3-35bc-478f-871e-4c050a6e4d57",
+        "shop_order": 22679381,
+        "shop_name": "Tiktok Shop Return",
+        "shop_type": 3
+      },
+      {
+        "shop_id": "66cc288c-11bc-40d5-8935-40380a6e4cd4",
+        "shop_order": 22699940,
+        "shop_name": "Shop quần độn+ Gen bụng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66d81434-3074-4fc5-987f-42f90a6e4eca",
+        "shop_order": 22707687,
+        "shop_name": "Bơ shop@",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66e7e8b4-6538-4073-ba33-4fde0a6e4ec9",
+        "shop_order": 22719073,
+        "shop_name": "Shop Bống*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66fcc31a-2cbc-44ad-a7cf-41dd0a6e4ec7",
+        "shop_order": 22733651,
+        "shop_name": "Gấu Úc",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "670354cb-248c-40d7-90e3-41000a6e4c3c",
+        "shop_order": 22738344,
+        "shop_name": "capiz luxury",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "672a9af0-6e00-418e-8af9-b3d649a96f3e",
+        "shop_order": 22799569,
+        "shop_name": "MIIUCI",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "677cfac7-c798-4fc3-bd18-4c9f0a6e4c39",
+        "shop_order": 22823777,
+        "shop_name": "BST1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "678dc68c-f260-4617-9b13-48400a6e4d75",
+        "shop_order": 22837233,
+        "shop_name": "Tổng kho Phương Chung",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6790a893-9d98-4a67-a329-48b50a6e4d75",
+        "shop_order": 22839874,
+        "shop_name": "Thời trang Thương Trần",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67a31b51-1c44-44fc-9c74-416e0a6e4cd3",
+        "shop_order": 22844075,
+        "shop_name": "Alice Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67a9cc23-508c-49cc-97b9-40280a6e4c3b",
+        "shop_order": 22848922,
+        "shop_name": "Thuy Lii Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67aac721-0d40-4f73-84a3-48b20a6e4d78",
+        "shop_order": 22849627,
+        "shop_name": "Friends Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67aad582-9d28-4b7d-9deb-4f9d0a6e4e65",
+        "shop_order": 22849691,
+        "shop_name": "Xưởng Sx may mặc",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67aafc8a-c5b8-4848-9efe-442c0a6e4d77",
+        "shop_order": 22849917,
+        "shop_name": "Shop Lan",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67c03a1e-178c-472d-b2bf-e38a0a6e4e65",
+        "shop_order": 22866589,
+        "shop_name": "GIA DỤNG VIỆT 9999",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67c52170-62b0-46b2-a50d-4fcc0a6e4ec9",
+        "shop_order": 22869702,
+        "shop_name": "shop Thanh Hiền",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67d1062a-8d38-422c-b7c7-4edb0a6e4ec7",
+        "shop_order": 22877799,
+        "shop_name": "Hot trend Quảng Châu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67d23e29-62d8-4a5a-8a2e-49930a6e4cd3",
+        "shop_order": 22878623,
+        "shop_name": "HƯƠNG THỊ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67d8ca28-f3b0-4bbd-80ca-4ee90a6e4e64",
+        "shop_order": 22882646,
+        "shop_name": "K&H Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67e10cde-f2ac-4d30-889f-40760a6e4c3c",
+        "shop_order": 22887935,
+        "shop_name": "Tiện ích xanh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67e9fbf0-43b0-401b-a32c-43630a6e4ec9",
+        "shop_order": 22892955,
+        "shop_name": "Đá quý Ánh Hồng*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67f886d1-78b8-4227-ac9f-45690a6e4d76",
+        "shop_order": 22901185,
+        "shop_name": "Lala Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67f894ac-7c08-4b40-97df-43f90a6e4d78",
+        "shop_order": 22901244,
+        "shop_name": "NHAT HA KIDS",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67fe0825-a858-4f6f-8247-41f90a6e4cd4",
+        "shop_order": 22904258,
+        "shop_name": "QUỲNH LINEN THỔ VIP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "68007876-8c40-4cc8-a2a0-44960a6e4ec7",
+        "shop_order": 22905615,
+        "shop_name": "Dép Da TONAVY",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6809ae0a-79ac-4e26-95a3-43ad0a6e4cd3",
+        "shop_order": 22910529,
+        "shop_name": "Công ty MEGA TECH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "681422c4-586c-4efe-99fc-49180a6e4c3b",
+        "shop_order": 22914803,
+        "shop_name": "SHOP Minh Anh store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "681b2f43-76a4-4a0e-b1df-484e0a6e4cd4",
+        "shop_order": 22918722,
+        "shop_name": "hottrend store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "681cbe8f-6de8-4df4-80f3-ed2be1cabcbb",
+        "shop_order": 21970456,
+        "shop_name": "Hoàng Minh Đường",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6826f1f7-19e0-4609-8ed9-4a930a6e4e64",
+        "shop_order": 22925128,
+        "shop_name": "GD thông minh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "682d93ff-2db8-4cb9-8915-4abe0a6e4e65",
+        "shop_order": 22928602,
+        "shop_name": "Nghiêm Thị Trang - Mỹ Phẩm Hàn Quốc 8x Beauty**",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "682fef54-23b4-4333-8a47-4d8a0a6e4ec8",
+        "shop_order": 22929842,
+        "shop_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ BCOM.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "683906c3-0880-4930-b91a-4bd50a6e4cd3",
+        "shop_order": 22935104,
+        "shop_name": "Khánh An Shop 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "684002d7-8a04-4462-89d9-44dd0a6e4e65",
+        "shop_order": 22938693,
+        "shop_name": "Cuong Shop..",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "623ae575-2f9c-422f-885d-4e5c0a6e4da3",
+        "shop_order": 21264482,
+        "shop_name": "PASSION SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "623b0c81-b5b8-4135-ac43-42b70a6e4d5a",
+        "shop_order": 21265308,
+        "shop_name": "Nhã Luyện",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6243b6fc-b5d0-4d5c-a5a5-4b7e0a6e4c24",
+        "shop_order": 21296432,
+        "shop_name": "Shop Phụ Tùng Máy Kéo",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "624d1e0e-3388-4a29-9c8a-44d10a6e4d59",
+        "shop_order": 21331535,
+        "shop_name": "Shop mỹ phẩm Mai phạm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "624e5867-09b4-4145-b8e2-4e6a0a6e4d74",
+        "shop_order": 21335776,
+        "shop_name": "Tuyet Bui",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6251541a-c4f4-422f-9782-45860a6e4e64",
+        "shop_order": 21345865,
+        "shop_name": "Cây Giống Số 1*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6251701a-678c-4912-970e-43030a6e4cd4",
+        "shop_order": 21346202,
+        "shop_name": "Manuel",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6253ae50-47a4-41f5-9eb8-41370a6e4d59",
+        "shop_order": 21350932,
+        "shop_name": "LALA SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6255091a-fb64-43b4-9070-4d640a6e4e0c",
+        "shop_order": 21356201,
+        "shop_name": "bộ đàm jbl",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "625e82a8-f0c4-4d99-ab91-4be70a6e4e65",
+        "shop_order": 21390105,
+        "shop_name": "Bellamoda NĐ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "625fd7e8-dac0-45d8-8168-40c20a6e4d5a",
+        "shop_order": 21394928,
+        "shop_name": "In Trung Nghĩa",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6268c7cc-e8cc-48b5-b7b9-43250a6e4d53",
+        "shop_order": 21424125,
+        "shop_name": "Droppii",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "626fad8f-66e0-4e67-b40c-42540a6e4c24",
+        "shop_order": 21440052,
+        "shop_name": "thietbianninhsaigon",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "627dcd1c-280c-4a8f-a766-41b80a6e4e0c",
+        "shop_order": 21488442,
+        "shop_name": "HHHK1FB",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61dcec62-0ca8-4dbb-8940-40ce0a6e4d59",
+        "shop_order": 20904489,
+        "shop_name": "Quôc’Dân pharmacy",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61dfdcf6-4ae4-4996-a6d1-4ff30a6e4d57",
+        "shop_order": 20921006,
+        "shop_name": "Tiệm đầm Helen",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61e6762d-81ac-4686-b048-436c0a6e4d53",
+        "shop_order": 20952910,
+        "shop_name": "Maison Thuy",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61ec425c-7418-4d55-b85a-413b0a6e4d5a",
+        "shop_order": 20985134,
+        "shop_name": "Minh Thu Tran",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6217446d-bbe4-465c-9ae2-40ad0a6e4d59",
+        "shop_order": 21100719,
+        "shop_name": "VTI - Gia dụng thông minh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62202c50-0b38-4373-9b4a-4b140a6e4cd3",
+        "shop_order": 21139005,
+        "shop_name": "Helen",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "622abe56-760c-4a3b-8d73-4f140a6e4c24",
+        "shop_order": 21188525,
+        "shop_name": "DỨA NAIL",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61025dee-fd84-448b-b5d6-4b880a6e4c26",
+        "shop_order": 19937310,
+        "shop_name": "Hanhlee",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6104ceaf-7fcc-4896-8727-49c40a6e4d74",
+        "shop_order": 19948533,
+        "shop_name": "Hada Mart",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "610bcc0f-6cd4-4080-a7ac-4ad90a6e4d58",
+        "shop_order": 19986681,
+        "shop_name": "Thuốc dân tộc Nguyễn Thị Lan",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6110f284-48d4-45a3-a93b-43c40a6e4c24",
+        "shop_order": 20006264,
+        "shop_name": "hường nail",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "611f7120-7498-46f4-8e60-40730a6e4d57",
+        "shop_order": 20057076,
+        "shop_name": "Chip Chip",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6128c921-c720-4c86-aa58-440f0a6e4c26",
+        "shop_order": 20075740,
+        "shop_name": "anh đạt",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61379077-4d60-40d0-b70d-43230a6e4c26",
+        "shop_order": 20111051,
+        "shop_name": "Lan Ngọc",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "613c216f-d37c-45a1-a9f5-426d0a6e4d57",
+        "shop_order": 20123933,
+        "shop_name": "số16 ngõ78 giải phóng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "613eb1ab-8e1c-46ec-b12c-48050a6e4c26",
+        "shop_order": 20130568,
+        "shop_name": "autovina",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "606c4d9d-1b58-48de-95c1-4e060a784c68",
+        "shop_order": 19097989,
+        "shop_name": "Linh phạm store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60756ff3-857c-4dcf-a38c-4def0a784c68",
+        "shop_order": 19143176,
+        "shop_name": "Thuận Ngô",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "607925fc-35cc-4c9c-be64-4afb0a6e4c26",
+        "shop_order": 19159683,
+        "shop_name": "Dailybebe",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "607e37f4-cb10-4842-9aac-4d4a0a6e4c26",
+        "shop_order": 19181939,
+        "shop_name": "iLLi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "608c148f-dd3c-4077-8ff6-4d280a6e4c24",
+        "shop_order": 19244173,
+        "shop_name": "Trung Hiếu",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60920001-e3e0-4f42-be09-4b820a784c68",
+        "shop_order": 19266494,
+        "shop_name": "Thuý Hằng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "609536eb-2a60-4488-bbe9-48800a6e4c25",
+        "shop_order": 19285703,
+        "shop_name": "SHOP ĐỒ BỘ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60ae7ae5-14cc-4bc2-b3cb-42190a784c68",
+        "shop_order": 19428077,
+        "shop_name": "Gia Dụng Plus",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60b2f9e5-71e8-4594-b69b-40100a784c67",
+        "shop_order": 19450622,
+        "shop_name": "DT Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "601a7087-f68c-4c29-aa1a-4e5b0a6e4c24",
+        "shop_order": 18716151,
+        "shop_name": "Nhà Thuốc Số 1 Việt Mỹ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "602c8d7e-88d4-4564-bb25-421f0a6e4cd1",
+        "shop_order": 18748401,
+        "shop_name": "Đại lí đồ lót ViVi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "602e3744-7e40-4529-b912-40ae0a6e4cd2",
+        "shop_order": 18755601,
+        "shop_name": "Phuc Minh Jewelry",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60321b23-ba30-4051-b6ad-48070a6e4c25",
+        "shop_order": 18771019,
+        "shop_name": "Kami Chuyên Sỉ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "603d2d55-34ec-4509-a934-44d80a784c66",
+        "shop_order": 18828972,
+        "shop_name": "djvietran computer",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6047b7dc-5d50-4f24-8fe0-4a890a784c66",
+        "shop_order": 18891222,
+        "shop_name": "Mỹ Phẩm Cozy",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "604aca64-f8d0-440c-aee6-4cb50a784c68",
+        "shop_order": 18917921,
+        "shop_name": "Hoả Châu Bóng Bàn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60546ed7-9a70-4b25-be7c-4eef0a784c68",
+        "shop_order": 18976335,
+        "shop_name": "Mây Shop 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61974f85-9ffc-4752-af56-49620a6e4e65",
+        "shop_order": 20576653,
+        "shop_name": "Công ty việt nhật - tăng trưởng vật nuôi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "619b32e6-8d74-4de5-8110-418d0a6e4d76",
+        "shop_order": 20595217,
+        "shop_name": "Shop Hồng Nguyễn_",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "619b5692-d460-47b9-9c51-44880a6e4d57",
+        "shop_order": 20596585,
+        "shop_name": "mittom",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "619f2fe0-0ae4-4d3c-8687-4c690a6e4d57",
+        "shop_order": 20616268,
+        "shop_name": "phương anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61a6f75d-a118-43ce-b0f8-44ad0a6e4c24",
+        "shop_order": 20654998,
+        "shop_name": "ANPHONG",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61add457-3788-4ba9-916e-40cc0a6e4da3",
+        "shop_order": 20688502,
+        "shop_name": "Thúy nga lan var",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61bb0bd5-0414-4670-b6d7-48680a6e4d57",
+        "shop_order": 20756172,
+        "shop_name": "Liin Leather Craft",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61d3a32a-33b7-4ec0-b5c9-a2e99806083d",
+        "shop_order": 22873123,
+        "shop_name": "TỔNG KHO GIÁ TỐT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61d3e292-cf58-42ca-af3b-4a200a6e4d53",
+        "shop_order": 20861444,
+        "shop_name": "Shoha Cordyceps",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "615968b2-8eb8-4d11-b4c3-4e860a6e4d74",
+        "shop_order": 20236275,
+        "shop_name": "Japan Kit.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "615bd760-e400-4b5b-b07b-43040a6e4cd4",
+        "shop_order": 20248284,
+        "shop_name": "Phoebe.",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "616b958e-fa30-476e-884c-4bec0a6e4d59",
+        "shop_order": 20340066,
+        "shop_name": "TRA Clt",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "617eb462-9344-43f4-8505-44490a6e4d58",
+        "shop_order": 20444615,
+        "shop_name": "Shop Authentic",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "618bb3b1-0f6c-44a2-b0c8-48b10a6e4e0c",
+        "shop_order": 20514281,
+        "shop_name": "Loan Vũ shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6191d6be-4ad4-4309-895a-48250a6e4d59",
+        "shop_order": 20543601,
+        "shop_name": "Điện Máy Tiện Ích Cam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "bce36ba9-2ec8-45ef-9076-b259847a39b5",
+        "shop_order": 22896426,
+        "shop_name": "SS Store VIỆT NAM",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "bd6891cb-30e4-4e98-ad88-586c7d9369ac",
+        "shop_order": 22386261,
+        "shop_name": "Shop hoa đẹp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "bdcff5d0-437d-4f4e-ad40-ab97dc52e4ed",
+        "shop_order": 22920843,
+        "shop_name": "Phố Style",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "bff2d688-b086-4e55-acce-e441dc725b17",
+        "shop_order": 21774440,
+        "shop_name": "Lysa Store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "c074169e-41a3-42a8-8436-5c98af5c2c13",
+        "shop_order": 22123217,
+        "shop_name": "Phụ Tùng Ô Tô",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "c1c25186-5749-45b9-af72-39cd11194fd1",
+        "shop_order": 22878076,
+        "shop_name": "Phố Vọng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "c54a6ae6-cda9-4a8a-9a82-96109a0d2e64",
+        "shop_order": 22915616,
+        "shop_name": "CHINH-HÀNG THANH LÝ CÔNG SỞ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c6d23d64-3cf9-48ae-812f-432ae4763d75",
+        "shop_order": 22842218,
+        "shop_name": "TEAM ĐT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c9c00426-8db6-417b-b823-dfa2e6e794c7",
+        "shop_order": 22800728,
+        "shop_name": "ACT PLUS",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "cc2f4278-3db8-4f8c-af88-c05becac0fc4",
+        "shop_order": 22663319,
+        "shop_name": "Nguyễn Dũng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "cf2c9d02-1a55-4273-a229-3b112a9b09e5",
+        "shop_order": 22726696,
+        "shop_name": "Gia Dụng Nhập Khẩu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "d19c182f-3f87-42fb-a223-9922b33c87ed",
+        "shop_order": 22825393,
+        "shop_name": "thành",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "d2e9a81d-df79-4dc9-9512-f96424f21535",
+        "shop_order": 21964774,
+        "shop_name": "Thuý Xinh Clothing",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "d44c752e-2f6f-4007-8969-bbdb9b947188",
+        "shop_order": 22930816,
+        "shop_name": "Vinhf2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "d45a5870-5305-45b1-b575-2b35154d9d50",
+        "shop_order": 22783228,
+        "shop_name": "Hữu Cường Mobile",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "d6b399c1-7f16-41da-a2a9-85ee493cff70",
+        "shop_order": 22821813,
+        "shop_name": "TN SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "d8b50f44-5d79-44fb-bd01-23047fe11580",
+        "shop_order": 22634230,
+        "shop_name": "Shop Hường Cốm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "da4ceb64-48a8-4d6b-bea8-47c9f965f8c2",
+        "shop_order": 22857052,
+        "shop_name": "ShibiShop - Hàng Đức Chính Hãng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "dc2c3c50-44ff-4c9e-8db9-d9bc81e52864",
+        "shop_order": 22638025,
+        "shop_name": "kumsanmart",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "de4b0e21-512b-4b00-87de-2707e2b5b5ae",
+        "shop_order": 22868432,
+        "shop_name": "GIA DỤNG 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "e3003dc0-97a7-4d31-aee2-64548904cd03",
+        "shop_order": 22795541,
+        "shop_name": "ăn vặt nhật bãn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "7419b809-8142-4479-8e14-e5077c2e8558",
+        "shop_order": 22775836,
+        "shop_name": "VinVin",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "74acdc2b-a41e-45b4-8631-c428e7a9162e",
+        "shop_order": 22381469,
+        "shop_name": "ĐÈN TRANG TRÍ CMT",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "7a818024-b998-4930-9f6a-26e999436c64",
+        "shop_order": 22109095,
+        "shop_name": "Lê nhật tiến",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7b7f82ea-a1cb-48cd-8d1a-85c67d9cfc8a",
+        "shop_order": 21731538,
+        "shop_name": "Đồ gia dụng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "7cb69e52-65de-4fd6-ab1a-43d530026e99",
+        "shop_order": 22794604,
+        "shop_name": "HỒNG HOA",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "7d770108-bbf3-4071-89a4-4d854fe7d316",
+        "shop_order": 22277383,
+        "shop_name": "biển hiệu quảng cáo led trang phát",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "7f24ca32-54bf-474b-afb6-87da140cf926",
+        "shop_order": 22644688,
+        "shop_name": "BÌNH PHUN ĐIỆN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7f3f535c-1a13-44d7-8ef5-ef40ada2e96f",
+        "shop_order": 22814781,
+        "shop_name": "MTP0",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7fbe7fea-5bbb-42e5-9f4e-25aae01efbf1",
+        "shop_order": 22841014,
+        "shop_name": "MunChan",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7fddec9f-7742-44c4-a6ef-d5de9c58cfff",
+        "shop_order": 22665014,
+        "shop_name": "HeidiLuxe.Official",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "802bfc90-d609-4bb3-b403-cf9f600eebb7",
+        "shop_order": 22842144,
+        "shop_name": "NONA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "811c95ae-9500-4a46-bcde-daad3e2bb8e3",
+        "shop_order": 21748292,
+        "shop_name": "ThuyAnhNg",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "82765c5a-b6b6-4db1-9d69-8f16c07521f3",
+        "shop_order": 22376737,
+        "shop_name": "Py Tồ shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "828f6d22-ff80-4687-b983-52400332420c",
+        "shop_order": 22083925,
+        "shop_name": "kiến xanh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "86e4db07-53bd-4ff5-a7a8-d04ff5d8b187",
+        "shop_order": 21704575,
+        "shop_name": "phan tiến đạt",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "874c1a2b-1655-4afb-bf01-37453ea242d9",
+        "shop_order": 22744433,
+        "shop_name": "Hải híp boutique",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "87f2a600-5606-4f74-b854-3688c35d6cb7",
+        "shop_order": 22613067,
+        "shop_name": "Anh Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "8806a326-7934-416c-a767-3ca6e9ed75f4",
+        "shop_order": 22878983,
+        "shop_name": "THỦY BÌNH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "8a615693-46c3-4225-b397-d4621a3acab2",
+        "shop_order": 22876061,
+        "shop_name": "Công Ty TNHH TokyoCamera Việt Nam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "97ff85be-42f7-4d24-8273-07fb6fbde083",
+        "shop_order": 22731459,
+        "shop_name": "Laptop Hoàng Minh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "985bb26d-d7a5-4b2a-8cbb-0068d68ca740",
+        "shop_order": 22884586,
+        "shop_name": "Newkyta",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9989aaa2-9ff2-45e0-872a-4c9b551fd3a3",
+        "shop_order": 22529788,
+        "shop_name": "TL",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "9bcf25b3-0692-4798-9a37-3b84da64031e",
+        "shop_order": 22635448,
+        "shop_name": "Hoàng Hà Miền Trung 2-3",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9c0431db-e30a-4dac-82ff-423b81bd2648",
+        "shop_order": 22021340,
+        "shop_name": "MWG An Khang(CÔNG TY CỔ PHẦN THẾ GIỚI DI ĐỘNG)",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9e323c8b-2fa6-4c54-8fea-d044803d0052",
+        "shop_order": 22609625,
+        "shop_name": "Kho Quỳnh Anh - 039.508.6546",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9f28935b-fedd-4a0c-af23-a0c05d2360d1",
+        "shop_order": 22888825,
+        "shop_name": "CÔNG NGHỆ 4.0",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9f859567-a8a1-4d58-a338-678670fd9a42",
+        "shop_order": 22934601,
+        "shop_name": "LADY STORE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9fc3ff56-7616-4ab2-b161-8d24aed6c5ba",
+        "shop_order": 22927906,
+        "shop_name": "Trại Cá Shop 1",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "ac3efacd-066f-4ce1-87f5-770d0ac35aca",
+        "shop_order": 22406160,
+        "shop_name": "Đinh Văn Sử",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "ad611d91-dc16-4303-8fa5-b2794e687c4f",
+        "shop_order": 22062143,
+        "shop_name": "Máy cửa nhôm Thế Hiệp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "af181424-6ecb-42c2-8208-3e16d8514fc5",
+        "shop_order": 22495055,
+        "shop_name": "Công ty Cổ phần đầu tư công nghệ Hacom",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "afae4e27-19a6-4476-9b4f-b8bb93597522",
+        "shop_order": 21685231,
+        "shop_name": "Im store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "b2dd4534-552d-4c78-b857-cd417b780a64",
+        "shop_order": 21995400,
+        "shop_name": "Máy tính Hoàng Bách",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "b30576bb-822e-4ee0-932e-ed1bbb9047a8",
+        "shop_order": 22739648,
+        "shop_name": "HUY THANH HT 36",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "b3eacda6-c34f-4bf6-b959-ac8970781929",
+        "shop_order": 22502631,
+        "shop_name": "Mỹ phẩm MOI",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "b3fcc7e6-a271-4cd6-8e72-6f89a883ad91",
+        "shop_order": 22696036,
+        "shop_name": "VINAMILK.VN - BOXME",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "b6f2a9f9-b076-4443-a80f-c8577d60fa51",
+        "shop_order": 22410372,
+        "shop_name": "KOREA SHOP",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "b711760b-d72a-40fa-98a1-b6790f6bd4d0",
+        "shop_order": 22661286,
+        "shop_name": "Bách Thảo Dược",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "b7d9036b-1f10-4a86-a484-eb049a067e72",
+        "shop_order": 22867420,
+        "shop_name": "Thời trang Format",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "b8b26876-c113-4c10-a6fe-0d81e0e8b6f5",
+        "shop_order": 22852426,
+        "shop_name": "Tiện Ích DLS",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "bbcf0e6e-5067-45dd-a181-6f22bebc0f15",
+        "shop_order": 22096523,
+        "shop_name": "BuiLanAnh Studio",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "bc0cf916-a8a2-4bce-a506-85b17f2d61de",
+        "shop_order": 22532403,
+        "shop_name": "An Nghi-Đông Y Nội Địa Trung Cao Cấp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "e53542b8-622a-44cc-9295-3d58b481a46b",
+        "shop_order": 22824683,
+        "shop_name": "Agiadep",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "e9db9d29-307c-4d14-b433-73feeeac5678",
+        "shop_order": 22931969,
+        "shop_name": "đoàn văn minh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "ead936c8-a1f2-4dd1-a1df-e749cdf94f51",
+        "shop_order": 22942285,
+        "shop_name": "Silk flower & tree shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "edde0866-506e-4265-b311-76572d22e723",
+        "shop_order": 22413629,
+        "shop_name": "AABOGO",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "efa8eb27-3edf-4a0c-a9eb-8d4487f8c4e0",
+        "shop_order": 22349653,
+        "shop_name": "Phụ tùng oto Bảo Nam",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "f0b5e6ff-5c2f-4175-a309-f13ee7859351",
+        "shop_order": 22510042,
+        "shop_name": "Mr Tao Japan",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "f270d55c-ec85-4466-bde7-5103e39bfb51",
+        "shop_order": 22817130,
+        "shop_name": "Tattoo supply",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "f35b1360-ebb2-452c-a989-a4319fc63e02",
+        "shop_order": 22923096,
+        "shop_name": "Công ty Quang Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "f42bb375-44d9-4c0f-ab69-0fa1a23cb5b4",
+        "shop_order": 22931504,
+        "shop_name": "lemkaka",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "f807c819-bb66-46e1-8f64-e28c787018ca",
+        "shop_order": 22920143,
+        "shop_name": "Cao xoa bóp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "fcc11700-df4e-4917-a204-249f1eb876ca",
+        "shop_order": 22024161,
+        "shop_name": "Tổng Kho Gia Dụng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "feb28fca-182b-4476-8477-850c1af08882",
+        "shop_order": 22928890,
+        "shop_name": "Nguyễn Thị Hoài Vi",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "ff314526-6f10-46c1-a850-32c7080958da",
+        "shop_order": 22363423,
+        "shop_name": "BALA NINH HIỆP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5fc47a7a-3524-4b20-a95b-41970a6e4c26",
+        "shop_order": 18329675,
+        "shop_name": "Rosy Studio",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fdcc5e2-c068-4b19-abc3-45830a6e4c25",
+        "shop_order": 18450289,
+        "shop_name": "Tiên EuTi",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fe2a8b1-c370-465d-940d-4f660a784c67",
+        "shop_order": 18473614,
+        "shop_name": "Máy Tính Tuấn Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5febd9f6-1a4c-4a43-8fe2-48da0a6e4c24",
+        "shop_order": 18510395,
+        "shop_name": "thanh tâm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ff6c70e-6a48-41c3-b21d-4ff70a6e4c24",
+        "shop_order": 18555427,
+        "shop_name": "linh92",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ff81800-6444-4a10-b2f1-4a020a784c66",
+        "shop_order": 18561655,
+        "shop_name": "2M Fashion",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60011980-6e64-4d8d-adfe-478a0a784c18",
+        "shop_order": 18602656,
+        "shop_name": "MUA SẮM VIỆT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6008050e-1e80-4b6a-874a-4ceb0a6e4c24",
+        "shop_order": 18634443,
+        "shop_name": "Giày dép Hoàng Long",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6009af13-8570-44b5-bb9a-49d80a784c66",
+        "shop_order": 18641676,
+        "shop_name": "Trần Hạnh Computer",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6010c6c5-2538-4035-9b1f-43360a784c67",
+        "shop_order": 18669228,
+        "shop_name": "Trang Mỹ Duyên",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "601bb028-b780-4721-bd59-40a00a784c66",
+        "shop_order": 18721820,
+        "shop_name": "PHỤ TÙNG CHÍNH PHẨM NGUYÊN PHƯỚC",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6034d80f-ac00-4d96-a0d6-4a3d0a6e4c26",
+        "shop_order": 18785498,
+        "shop_name": "Hiếu Apple 886",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6043619a-4280-43a1-817c-412c0a784c66",
+        "shop_order": 18869777,
+        "shop_name": "Minh Tùng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6047359d-5ac0-4346-9475-42d80a6e4c24",
+        "shop_order": 18887908,
+        "shop_name": "Shop Nam Chung Luxury",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60477e61-4d9c-44a7-9c5b-49a10a6e4c26",
+        "shop_order": 18890134,
+        "shop_name": "shop led thắng quân",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "604f3b7f-de1c-4c28-84ca-47dc0a784c18",
+        "shop_order": 18946089,
+        "shop_name": "Bách hợp online",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6057637f-84d0-4622-a68d-4fe00a784c68",
+        "shop_order": 18988574,
+        "shop_name": "23 Himmiz",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "605acc85-9094-4e81-b451-43900a784c68",
+        "shop_order": 19006726,
+        "shop_name": "Ánh Đức",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "605c6f2c-ef74-4e06-b0f5-41a10a784c67",
+        "shop_order": 19017260,
+        "shop_name": "Tường Chí Lâm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6063fe52-67a0-41fb-81dd-4d080a784c68",
+        "shop_order": 19054344,
+        "shop_name": "vật liệu nha khoa Nam Phát",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60695f5b-04d8-4d82-8ec7-4aca0a6e4c24",
+        "shop_order": 19081507,
+        "shop_name": "Shop quần áo giá rẻ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d88f231-2854-4ab3-8a03-4e300a0a0291",
+        "shop_order": 7977565,
+        "shop_name": "MEIDUZI LAN CHI THẢO",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d931d7a-c1dc-4755-8c44-41bf0a0a0267",
+        "shop_order": 8141882,
+        "shop_name": "Remy",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5db80592-dbec-4c67-a09d-44a70a0a0291",
+        "shop_order": 8768300,
+        "shop_name": "tuyến yên tâm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5de4767c-8700-49bd-9174-4f420a0a0267",
+        "shop_order": 9424173,
+        "shop_name": "Tuấn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5df8afeb-2b38-4730-820a-49350a0a0210",
+        "shop_order": 9710886,
+        "shop_name": "Dược mỹ phẩm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5dfb2046-a060-4c24-806d-4f180a0a0290",
+        "shop_order": 9747441,
+        "shop_name": "Shop Thời Trang Nam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cef86b6-f948-4a71-9d23-1a330a0a0269",
+        "shop_order": 5789907,
+        "shop_name": "VALI KÉO XUẤT/ NHẬP KHẨU",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5cf0e2be-bfb4-458b-bee7-45cb0a0a0210",
+        "shop_order": 5806939,
+        "shop_name": "yen.nguyen",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5cfb84a4-5620-4e62-bff7-45140a0a020b",
+        "shop_order": 5940659,
+        "shop_name": "Quỳnh hương",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d157f2e-73d0-4a58-a42b-3cf90a0a026e",
+        "shop_order": 6267154,
+        "shop_name": "Thanh Quỳnh stoer",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d15ddac-b880-4446-9f5b-78a40a0a026e",
+        "shop_order": 6275458,
+        "shop_name": "Công Ty Cổ Phần Tập Đoàn Thái Tuấn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d207e4e-060c-4824-993d-402a0a0a0214",
+        "shop_order": 6412566,
+        "shop_name": "linhchishop2410",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d2d6995-ecac-4bb4-b15c-9ab90a0a0214",
+        "shop_order": 6582798,
+        "shop_name": "DRUGY CORP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5d427817-92e4-4769-8294-4fcf0a0a028e",
+        "shop_order": 6879675,
+        "shop_name": "HoàiNam12",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d50d7f5-283c-44ec-b3b6-4b200a0a028f",
+        "shop_order": 7086332,
+        "shop_name": "an soul",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d67b8c7-7744-4bc4-add3-47780a0a027f",
+        "shop_order": 7446504,
+        "shop_name": "Titanium Luxury Store - Phụ Kiện Đồ Chơi Xe Hơi Cao Cấp",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5d80fbc7-2cc0-4afa-8f58-eadd0a0a0290",
+        "shop_order": 7848024,
+        "shop_name": "CAMELLIA AUTHENTIC",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "59f6d8fd-b0a0-4fa8-9983-1ffd0a0a0005",
+        "shop_order": 134592,
+        "shop_name": "The Peace",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a1d3075-6248-4dae-8eba-2e7e0a0a0004",
+        "shop_order": 183001,
+        "shop_name": "Siêu Thị Làm Đẹp - sieuthilamdep.com",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a449854-10e0-47bf-933d-10f40a0a0265",
+        "shop_order": 239551,
+        "shop_name": "Nghiện Si Myra",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a484ba4-54f4-4ef8-82f7-76910a0a0268",
+        "shop_order": 244165,
+        "shop_name": "Aga-Aga Nhang Trầm Thanh Tẩy",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5a50758a-9db0-40c0-ad94-45d70a0a0269",
+        "shop_order": 255040,
+        "shop_name": "PiTi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a543f36-df1c-4aa5-bfd8-57d40a0a0268",
+        "shop_order": 260881,
+        "shop_name": "Nguyễn Thị Thảo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a5b4272-3bd8-433d-a316-7e520a0a0268",
+        "shop_order": 275191,
+        "shop_name": "luasecond",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5a68ac15-8154-4abc-af19-fa7a37744239",
+        "shop_order": 22932886,
+        "shop_name": "HP Nhung Dinh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5a7a65e0-5dd8-4602-a3ce-252d0a0a0268",
+        "shop_order": 346601,
+        "shop_name": "Bookstore",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5aa3b806-ad7c-4c14-896b-335e66113d74",
+        "shop_order": 21721901,
+        "shop_name": "Non Angela",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5aa62976-5d40-4e22-9cb5-2b600a0a0269",
+        "shop_order": 432377,
+        "shop_name": "GYM+",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5aa771d4-006c-4620-ac29-84a80a0a026e",
+        "shop_order": 437117,
+        "shop_name": "Hartus'",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5abc70d8-4600-4ed4-be99-32a20a0a0269",
+        "shop_order": 503377,
+        "shop_name": "Bột Giặt",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ae06f34-486c-45e2-ad2f-32eb0a0a0268",
+        "shop_order": 620021,
+        "shop_name": "Hương Chanel",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5aee7c6d-0710-4171-87be-6bc10a0a0268",
+        "shop_order": 656693,
+        "shop_name": "BỐP BỰ - Chuyên quần áo trẻ em cao cấp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5afd23e5-d9f8-45fe-9f98-27590a0a026e",
+        "shop_order": 711098,
+        "shop_name": "Shop Bảo Châu",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b0266a7-00bc-4c42-822e-158a0a0a0268",
+        "shop_order": 727446,
+        "shop_name": "MIU STORE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b0e757b-eb60-43a6-a079-399c0a0a0268",
+        "shop_order": 931706,
+        "shop_name": "sam yue",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b13abc4-dd48-48af-b5b9-56da0a0a0268",
+        "shop_order": 948056,
+        "shop_name": "CỬA HÀNG TOSON",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b1415d6-7f34-477a-8411-70140a0a0269",
+        "shop_order": 949472,
+        "shop_name": "Eroca",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b1ca07a-c924-4cf7-8f4e-7ee50a0a0268",
+        "shop_order": 981412,
+        "shop_name": "Grey Bear Gift Shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b1dfb9b-20c4-4c8a-bbe5-632e0a0a0269",
+        "shop_order": 985880,
+        "shop_name": "Linhauto",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b3a1205-433c-4016-bd4a-44360a0a0268",
+        "shop_order": 1061076,
+        "shop_name": "Monaco Shop Thai Ha",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b4e97c7-8258-43d7-9209-34c20a0a020b",
+        "shop_order": 1220872,
+        "shop_name": "Thảo Nguyễn NT ll",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "2a2fd1d9-a17a-41e3-af38-7cef05a8a3c5",
+        "shop_order": 22158637,
+        "shop_name": "shop.emoi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "2b8df804-e13a-4649-8971-54c8e611499f",
+        "shop_order": 22544857,
+        "shop_name": "Thực Phẩm Chức Năng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "2c47927d-c35c-4da9-bc36-a5c92fc0c5ea",
+        "shop_order": 22819320,
+        "shop_name": "Vật Liệu 3M",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "2fde1db7-c30d-4a42-bec9-c59630ed517e",
+        "shop_order": 22263660,
+        "shop_name": "Phong Thuỷ Nguyễn Trang",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "3054127d-6fc8-4008-93e4-4d51c1fade24",
+        "shop_order": 22658941,
+        "shop_name": "Huyền beaty HN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "32ef18d5-388c-40d7-b6bb-5f7ba12c2c6e",
+        "shop_order": 22687736,
+        "shop_name": "Mỹ Phẩm Lê Vân Anh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "3396893e-f116-46fd-aa34-4fa51784b7ea",
+        "shop_order": 22806683,
+        "shop_name": "Có Tất là Có Tất",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "36796edc-ce7f-41ea-945a-6bd287e3b0b5",
+        "shop_order": 22624449,
+        "shop_name": "An Nhiên Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "38d8a7fb-52a1-4575-bf07-732de55de867",
+        "shop_order": 22822156,
+        "shop_name": "Trần Quốc Tuấn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "39b6ea56-c03c-4948-aee1-00cef0114b37",
+        "shop_order": 22741770,
+        "shop_name": "shopgiadung",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "3c44045b-0f2f-46bc-b23b-823933f0b3be",
+        "shop_order": 22851991,
+        "shop_name": "Dustyman - Classic Style",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "3cd51eb9-90d5-4a20-940f-b9d680d2ac07",
+        "shop_order": 22226643,
+        "shop_name": "Hương Ly",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "40ccd388-cdbf-40c3-9573-bf265a8aff02",
+        "shop_order": 22658434,
+        "shop_name": "Tổng Kho Hà Thành",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "41984bbe-3f0b-41b2-8151-0b7410dd1ab5",
+        "shop_order": 22827101,
+        "shop_name": "KINH BẮC (VĐ2)",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "4246eb92-f7e7-4a15-a1bc-883a4edead32",
+        "shop_order": 21868765,
+        "shop_name": "Mlinh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "44999758-f32b-40ed-ada3-7c05721ba6d5",
+        "shop_order": 22940124,
+        "shop_name": "thời trang xuất khẩu dư xịn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "45d35823-dc4f-401c-96b2-ccc80aec5714",
+        "shop_order": 22687449,
+        "shop_name": "Công ty TNHH MTV Hóa Chất Mùa Vàng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "45dcd2a8-54f2-4e7f-a81d-92b04d38e4ef",
+        "shop_order": 22882270,
+        "shop_name": "lilbear.han",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "464cbfcb-84ac-4b47-b5d5-ae4f9df2e46b",
+        "shop_order": 22309814,
+        "shop_name": "Bỉm Yingcool",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "48426bb1-5891-4ae2-b527-926a00505c65",
+        "shop_order": 22631960,
+        "shop_name": "Mitaclyn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "4b1df60f-b426-48be-a929-51d7c555208d",
+        "shop_order": 22785527,
+        "shop_name": "CÔNG TY TNHH KALITE VIỆT NAM",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "038aa428-8ddb-4a53-b58d-68d9b3b2bf30",
+        "shop_order": 22594675,
+        "shop_name": "khanhvy6",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "05187d86-6b78-4d9a-9ec1-3d5535252335",
+        "shop_order": 22919309,
+        "shop_name": "ST-House170",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "05f559a5-8450-46e4-bcef-c75f90be3816",
+        "shop_order": 22912577,
+        "shop_name": "Gốm Sưa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "07cb7172-3ffa-48cd-b73b-d5b95ff90e57",
+        "shop_order": 22940982,
+        "shop_name": "Phạm Hải",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "0b6058ee-26d4-41bd-b31a-83296a81b9ab",
+        "shop_order": 22138848,
+        "shop_name": "MYPHAM-HIENLE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "109e10f7-8f7d-4920-a51b-6e81aba58597",
+        "shop_order": 22752221,
+        "shop_name": "MSmile thời trang mặc nhà",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "12958cb1-3069-45bb-bed0-e08974ef52fe",
+        "shop_order": 22812302,
+        "shop_name": "CÔNG TY TNHH NHÂN AN PHÁT",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "19e84b59-bca4-4a56-bf6d-cd5679820dcb",
+        "shop_order": 22740856,
+        "shop_name": "Mỹ Phẩm My Chi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "1d22684c-a9ad-4212-8405-b7d770905dc9",
+        "shop_order": 22545509,
+        "shop_name": "Hoshi-Phan",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "1f041f09-1fdd-4649-9f88-5f84f44c2476",
+        "shop_order": 22871039,
+        "shop_name": "JOELLA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "21337c8c-7e25-4c4d-8e0c-40c1e25c67f9",
+        "shop_order": 22519098,
+        "shop_name": "Giang Led 6G",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "2211a200-fb99-474f-873e-e3322aac66b5",
+        "shop_order": 22643475,
+        "shop_name": "THẢO",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "223fabb7-2921-4cbd-830f-e2bc59aea7f8",
+        "shop_order": 22873720,
+        "shop_name": "Gia Dụng ĐH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "249a008a-8a88-4e4e-ab16-81f846e5a48a",
+        "shop_order": 22870775,
+        "shop_name": "Nhím Store - Chuyên Hành Chính Hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "250ccd62-28f8-4465-9ceb-24d76c67aa1e",
+        "shop_order": 22857880,
+        "shop_name": "Gia dụng ToolFam",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "259ecc40-8e89-42ab-b2b2-45f0339e94f7",
+        "shop_order": 22907303,
+        "shop_name": "NN SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "25af46c2-01c1-4f72-bdc4-0bd029329c59",
+        "shop_order": 22862105,
+        "shop_name": "Shop Vui Vẻ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "50612719-8f3d-455c-ae3e-e5d7dcd5a2cf",
+        "shop_order": 22350400,
+        "shop_name": "Shopxubong",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5086b2d0-8c6d-4a95-8ca5-bede35823dff",
+        "shop_order": 22784215,
+        "shop_name": "Thuỷ titi kids",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "51adb327-6a41-4a44-801b-932ad798e546",
+        "shop_order": 22251685,
+        "shop_name": "Đồng Quê",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "51ec9d75-e35b-4565-bb45-b01d954cc226",
+        "shop_order": 22017461,
+        "shop_name": "Nhu tu motor",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "52185b8d-aa16-4044-83dd-102b42a525d5",
+        "shop_order": 22914922,
+        "shop_name": "Shop Quần Nữ HT 3",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5273177f-da14-4320-9db7-9832d2d36175",
+        "shop_order": 516,
+        "shop_name": "Ecom services",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "53c64ae8-7600-4920-8bef-695ad2d36175",
+        "shop_order": 3452,
+        "shop_name": "our nest decor",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "55b6e5f4-5708-4159-a1f2-2c97d2d36175",
+        "shop_order": 6879,
+        "shop_name": "Linh Lan 123",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5664bfc2-7461-4f86-b80a-55cbcb63b101",
+        "shop_order": 22928854,
+        "shop_name": "Shop MKTN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "576ba1c3-7768-45ab-8eef-3d54d2f55948",
+        "shop_order": 21547,
+        "shop_name": "Petite Maika - Handmade for Kids",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "578705d1-91a4-4e96-918f-33ecd2f55948",
+        "shop_order": 24069,
+        "shop_name": "Ecom - VASCARA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "57bcd900-8360-4763-beb0-55f6d2f55948",
+        "shop_order": 28579,
+        "shop_name": "Ngân Linen",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "57ebfd96-5dd4-4dc5-a8e0-727bd2f55948",
+        "shop_order": 31808,
+        "shop_name": "Kim xu beauty",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "58116fd6-c284-4fb0-9d45-51d1d2f55948",
+        "shop_order": 34130,
+        "shop_name": "Siêu Thị TPCN Thu Hòa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "582c0ffa-3694-42c2-a9db-5ed5d2f55948",
+        "shop_order": 35835,
+        "shop_name": "REMMY",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "591b1d27-0da4-4a49-9c27-50bcd2f5594a",
+        "shop_order": 57602,
+        "shop_name": "Yuwell Hà Nội",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5935222d-5970-42d2-abce-3a6dd2f5594a",
+        "shop_order": 61152,
+        "shop_name": "CÔNG TY CỔ PHẦN VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5983569e-06bc-4620-8f5e-11f567234010",
+        "shop_order": 76108,
+        "shop_name": "ACB Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5983e557-e5c0-4d78-a353-0a0867234010",
+        "shop_order": 80353,
+        "shop_name": "Hợp Tác Xã Cây Giống F1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "59996ae2-e6b8-4900-87ba-4c116723400e",
+        "shop_order": 88426,
+        "shop_name": "unghoanghai",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "59b3c18a-46c0-45db-91af-30640a0a0004",
+        "shop_order": 96265,
+        "shop_name": "huyền lê korea",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "59c0e2d3-8900-4432-89d6-04f70a0a0005",
+        "shop_order": 99583,
+        "shop_name": "Annchery Store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "59ccceb8-f804-460e-9a32-3f870a0a0004",
+        "shop_order": 103189,
+        "shop_name": "Thời trang Ceilio",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "59d47890-b2dc-44ac-938a-179a0a0a0004",
+        "shop_order": 105560,
+        "shop_name": "Dụng Cụ Diện Chẩn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c2d95b1-d730-4bf5-906e-a4650a0a0265",
+        "shop_order": 3581099,
+        "shop_name": "SHOP HOÀNG MAI THÁI NGUYÊN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c399979-b104-415e-873a-42720a0a0210",
+        "shop_order": 3757571,
+        "shop_name": "KINGTECH Care",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c6422c9-b590-4940-8f90-4d2a0a0a0267",
+        "shop_order": 4077003,
+        "shop_name": "Điện máy NAM ĐỊNH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c7250c3-aa0c-4217-8aee-43e70a0a0210",
+        "shop_order": 4217983,
+        "shop_name": "JIMIE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c775bc9-3b00-46ea-a99c-49990a0a0267",
+        "shop_order": 4273359,
+        "shop_name": "[HVC] Đơn FG-P, RMA-P",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c8e0c53-c650-4e54-a9d0-22730a0a0269",
+        "shop_order": 4552184,
+        "shop_name": "PIRITPOWER",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c8e1b59-66c4-4c42-9270-30640a0a0268",
+        "shop_order": 4553196,
+        "shop_name": "sorrow21",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c9ed38c-40d4-4d80-aba9-53900a0a027f",
+        "shop_order": 4765784,
+        "shop_name": "Miki_pham (Ladie Store)",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5cb5422c-54a8-400e-8866-1b030a0a0268",
+        "shop_order": 5044340,
+        "shop_name": "Elise Online",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cb8a828-2d64-4cfc-9936-43870a0a0214",
+        "shop_order": 5099324,
+        "shop_name": "Vali kÚn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cb9a251-8cdc-4fd8-88e0-40340a0a0210",
+        "shop_order": 5111236,
+        "shop_name": "Hong Minh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5cc177b8-1abc-4c94-9bcb-6afc0a0a0268",
+        "shop_order": 5219096,
+        "shop_name": "Amy logistics",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5cc321b4-0c20-4c55-9925-44940a0a0214",
+        "shop_order": 5241196,
+        "shop_name": "Thu Giang Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ccbc185-1b40-4212-8fb1-41410a0a0214",
+        "shop_order": 5318608,
+        "shop_name": "Nan Nan toupee",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ccffa38-16f8-440f-8c30-85630a0a0214",
+        "shop_order": 5381680,
+        "shop_name": "TỔNG KHO SỈ KÍNH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5cd3e50e-e118-4dfa-b15c-416b0a0a027f",
+        "shop_order": 5443180,
+        "shop_name": "shop giầy da Adam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5ce52e67-edbc-4356-9d9a-44750a0a0269",
+        "shop_order": 5661362,
+        "shop_name": "Hang Nguyen Shop Xala",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b504769-6518-426e-baea-35990a0a0268",
+        "shop_order": 1243364,
+        "shop_name": "trúc nhi boutique",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b508b60-f7d0-4470-ab6b-6fdc0a0a0269",
+        "shop_order": 1247256,
+        "shop_name": "Hồng Nhung",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b55b202-2b94-431e-a141-34900a0a0269",
+        "shop_order": 1296448,
+        "shop_name": "SARA NGUYỄN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b62e243-7208-4dd3-81d1-2d950a0a0268",
+        "shop_order": 1428449,
+        "shop_name": "Shop Trang Sức",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b648533-dac4-4220-be80-259c0a0a0268",
+        "shop_order": 1446145,
+        "shop_name": "Shop Thuý Hà",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b66841c-6d08-4e27-84ee-535d0a0a0268",
+        "shop_order": 1460633,
+        "shop_name": "jícamastudios",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b6be31a-74f8-42f9-9859-0d520a0a0268",
+        "shop_order": 1519849,
+        "shop_name": "Chuu Hàn Quốc",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5b95936b-b7d0-4aa8-9bc9-0f030a0a0269",
+        "shop_order": 1900909,
+        "shop_name": "tuslinn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5b967f7e-9bf8-4ffb-bacb-18750a0a0268",
+        "shop_order": 1912621,
+        "shop_name": "việt ngân đá quí tâm linh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ba37e27-efc0-416d-bac3-35190a0a0269",
+        "shop_order": 2035651,
+        "shop_name": "Salim Clothing Thời Trang Nữ Thiết Kế",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5bab1f18-a450-4c88-b2c1-75080a0a0269",
+        "shop_order": 2083495,
+        "shop_name": "UYÊN UYÊN SINCE 2019",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5bb59f50-c190-46d7-b4eb-3bd40a0a0268",
+        "shop_order": 2179434,
+        "shop_name": "kiot 1.22- ct1- chung cư nam xa la- phúc la- hà đông- hà nội",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5bca8754-a218-4fc2-aecc-47a60a0a0214",
+        "shop_order": 2400386,
+        "shop_name": "phạm thị tuyết mai",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5bd2d9eb-3fec-4a17-a645-49140a0a0211",
+        "shop_order": 2487758,
+        "shop_name": "Otogo.vn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5be07cad-ce18-43b0-a33f-75490a0a0268",
+        "shop_order": 2621308,
+        "shop_name": "NGUYỄN DUNG(ELSA KIDS)",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c0662f2-26dc-4897-bd77-316f0a0a0268",
+        "shop_order": 3127504,
+        "shop_name": "Nhà may Hương Trang",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5c096033-2b9b-47a5-a716-a889032a777c",
+        "shop_order": 22810374,
+        "shop_name": "Sứa muối vẹt",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5c22f82f-d620-44d2-9b2e-48960a0a0213",
+        "shop_order": 3456707,
+        "shop_name": "shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5eeaf677-124c-4740-abe3-4e1f0a6e4c26",
+        "shop_order": 14049178,
+        "shop_name": "Lâmm Béo",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5eeb45cb-e900-4ae4-8116-4fce0a0a342e",
+        "shop_order": 14060179,
+        "shop_name": "shop khánh nguyễn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5ef5fb0b-6054-413a-9692-4dd80a6e4c23",
+        "shop_order": 14265550,
+        "shop_name": "tâm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f053bbb-ca18-4f80-a993-4c390a0a3422",
+        "shop_order": 14544343,
+        "shop_name": "THANH TRÚC ...++",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e77467b-60a4-4d35-a402-3b110a0a027f",
+        "shop_order": 11639132,
+        "shop_name": "SOCCER BECK",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e7f3961-51f4-45e0-b7a7-4fdf0a0a028f",
+        "shop_order": 11830850,
+        "shop_name": "Shop máy hút sữa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e822bf5-96bc-4d7d-8b27-41630a0a0290",
+        "shop_order": 11900201,
+        "shop_name": "Thdreamers",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e8360b0-e16c-4897-9923-44280a6e4c26",
+        "shop_order": 11931470,
+        "shop_name": "Shop Thiên Di (Di Home Decor)",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e83fcd3-24d0-436a-8d64-4d120a6e4c46",
+        "shop_order": 11938013,
+        "shop_name": "Đồ Nhật Bãi Nam Định",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e840276-e28c-404d-a409-43a00a6e4c25",
+        "shop_order": 11938802,
+        "shop_name": "Xưởng Đồ Bà Nội Trợ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e855d80-dd04-48c4-a69d-44cd0a6e4c23",
+        "shop_order": 11974226,
+        "shop_name": "Thulan Authentic",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e8acd0b-6e4c-4173-8a07-42aa0a6e4c46",
+        "shop_order": 12110297,
+        "shop_name": "mysoishopp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e8b047c-fff4-4450-ac15-46630a6e4c46",
+        "shop_order": 12121169,
+        "shop_name": "TIỆM VNXK",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e929113-8820-4f70-a38a-4bc40a0a028f",
+        "shop_order": 12324212,
+        "shop_name": "hoang thi ngann",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e92a7e7-9b24-43da-a839-492b0a6e4c25",
+        "shop_order": 12327716,
+        "shop_name": "Phùng Thị Bích Hảo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e948c8c-8578-4939-91c0-434a0a6e4c47",
+        "shop_order": 12388316,
+        "shop_name": "Bác Sĩ Tiến",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e96e591-9b34-4d17-b8b0-45c80a6e4c24",
+        "shop_order": 12453713,
+        "shop_name": "PHỤNG NGUYỄN STORE",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e985430-bc64-4efe-a9a0-43ef0a0a028f",
+        "shop_order": 12493010,
+        "shop_name": "Hoa tây cosmetic",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e9a96e0-8198-461f-b08b-49e50a6e4c24",
+        "shop_order": 12551258,
+        "shop_name": "Trần Hùng Store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5eb12f5c-6268-458d-b7b4-416f0a0a3422",
+        "shop_order": 13008314,
+        "shop_name": "Bcloudtown",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5eb56b5d-1ea8-4171-a47f-44710a6e4c24",
+        "shop_order": 13089866,
+        "shop_name": "nguyễn cao cường vác",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e187b69-7bbc-46d2-a750-42c40a0a0290",
+        "shop_order": 10125071,
+        "shop_name": "EUPC STORE",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e1da09b-8a8c-4500-88ff-44160a0a0290",
+        "shop_order": 10182986,
+        "shop_name": "Smilee",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e2ebcbc-c60c-4fca-9395-41150a0a028e",
+        "shop_order": 10289267,
+        "shop_name": "Thu Hằng Shop- Thiên đường thời trang cao cấp. (Essence Shop-July Shop)",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e3b6ead-2fd8-421d-9520-4b500a0a028f",
+        "shop_order": 10421885,
+        "shop_name": "cửa hàng hùng nga",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e3e5683-8790-4e1d-880d-27790a0a0267",
+        "shop_order": 10490978,
+        "shop_name": "Nhatlammobile79",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e3eccd2-8650-473d-ab7d-1b7e0a0a0267",
+        "shop_order": 10500569,
+        "shop_name": "spa Thu Hiền",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e3f7f99-5990-4a3b-a9f7-42660a0a0267",
+        "shop_order": 10505957,
+        "shop_name": "Bs Nguyên - Dược mỹ phẩm store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e4f3657-cc84-42e6-94e5-0dbd0a0a027f",
+        "shop_order": 10770359,
+        "shop_name": "Shop Tiện Ích 24H",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e52b645-c77c-418d-a7f9-34660a0a0267",
+        "shop_order": 10829162,
+        "shop_name": "Nguyễn Phương Giang (Giang Authentic)",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e550833-85b4-4c43-b136-24150a0a027f",
+        "shop_order": 10873796,
+        "shop_name": "NPP Tuyết Nhi",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e64da23-9294-4d71-ad94-4afd0a0a0266",
+        "shop_order": 11185151,
+        "shop_name": "Hugo Xíu",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e66114b-e0f8-4516-a6d5-21970a0a0210",
+        "shop_order": 11211212,
+        "shop_name": "Thời trang Cây Leo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5e6b4a83-8034-45dc-bbcb-4ed90a0a0291",
+        "shop_order": 11335769,
+        "shop_name": "The Saigon",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5e6f87ea-13a0-43f8-ac56-99b20a0a0267",
+        "shop_order": 11441975,
+        "shop_name": "LAK Shopp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f65d835-eb08-405a-9f42-43ab0a6e4c25",
+        "shop_order": 16705276,
+        "shop_name": "NGỌC THANH TUYỀN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f6601c9-6624-43b4-8888-40d70a6e4c24",
+        "shop_order": 16709164,
+        "shop_name": "Cao Tuyet Nhung Order",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f6ae624-41b4-420b-a178-46ce0a6e4c48",
+        "shop_order": 16812925,
+        "shop_name": "quầy thuốc yến cường",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f6d9dc8-2038-4b4c-9736-43a20a6e4c47",
+        "shop_order": 16875553,
+        "shop_name": "Hà Mi Nguyễn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f6ff78c-0900-498b-880f-40130a6e4c47",
+        "shop_order": 16918492,
+        "shop_name": "Thaibinhsport",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f794bde-8098-4d65-9954-48a00a784c19",
+        "shop_order": 17104942,
+        "shop_name": "Shop Vân Mỹ Chi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f7ec64b-449c-4175-ae5b-4b1e0a6e4c47",
+        "shop_order": 17225527,
+        "shop_name": "Cửa hàng triệu vy shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f81a22e-3d84-4bc7-858d-4f7c0a6e4c25",
+        "shop_order": 17284669,
+        "shop_name": "điện máyquốc bảo",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f8d0167-dc80-4b0b-8b67-46af0a6e4c23",
+        "shop_order": 17537813,
+        "shop_name": "chuyên nhãn mac",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f97c4fc-4d98-4615-b2a8-41e00a784c66",
+        "shop_order": 17785517,
+        "shop_name": "volleyball store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5fa0cf14-e5ac-4eaa-8f92-40be0a784c66",
+        "shop_order": 17994074,
+        "shop_name": "CTY TNHH dược mỹ phẩm SUMDFINE",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fa20cc8-21b8-4fdc-9f0b-41a40a6e4c26",
+        "shop_order": 18022691,
+        "shop_name": "Huy Hoàng Apple",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fa90e7b-7188-4c22-8060-45500a6e4c26",
+        "shop_order": 18195884,
+        "shop_name": "NhungZ shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5fade42f-9a3c-4233-8c0f-460e0a784c65",
+        "shop_order": 18228272,
+        "shop_name": "Phương Thảo",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5fadf20a-db60-49ff-90e1-4c050a784c1a",
+        "shop_order": 18228775,
+        "shop_name": "Hapas Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f198a98-5ec8-4d3e-a4b1-41010a6e4c24",
+        "shop_order": 14912767,
+        "shop_name": "LFT SPORTSWEAR",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f1b5da3-583f-417e-ad1a-ec45dd414a8d",
+        "shop_order": 22728237,
+        "shop_name": "Minh Châu Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f2d0900-15dc-4a02-86a1-4c330a6e4c25",
+        "shop_order": 15328792,
+        "shop_name": "Thu Hiền Shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f2e0afb-ad58-4f64-a375-44690a6e4c46",
+        "shop_order": 15348964,
+        "shop_name": "Kho hàng Nhật-Hàn",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f30c233-04fc-4067-93d3-4d660a6e4c26",
+        "shop_order": 15407725,
+        "shop_name": "Đồ Làm Tóc",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f324572-8584-49e3-8c63-46e60a6e4c47",
+        "shop_order": 15449608,
+        "shop_name": "phamGiao",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f3de618-1300-40fb-871a-44a00a6e4c49",
+        "shop_order": 15732004,
+        "shop_name": "thủy chung store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f4355d2-9f38-4ec4-a128-42ec0a6e4c26",
+        "shop_order": 15861946,
+        "shop_name": "Điện tử Văn Thưởng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f473504-9198-4fc6-8572-41d50a6e4c47",
+        "shop_order": 15962878,
+        "shop_name": "Hshop Dh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f4887e3-3948-42d6-8dcc-479a0a6e4c25",
+        "shop_order": 15992497,
+        "shop_name": "Phương",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "5f54faf3-f5d0-4a74-a0ed-4c980a6e4c23",
+        "shop_order": 16275316,
+        "shop_name": "boss BaBy SHARK Thanh tuyền",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f551e00-d070-4b68-90b0-49db0a6e4c47",
+        "shop_order": 16277155,
+        "shop_name": "Shop Minh Trang",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "5f56e623-9058-4e98-aaf8-46780a6e4c46",
+        "shop_order": 16311463,
+        "shop_name": "2Fleurs",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6291e7b5-607c-4f1f-a5e8-4c320a6e4d59",
+        "shop_order": 21554924,
+        "shop_name": "VananhNguyen/ Minh dang hang nhat",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62a15262-aba8-4e51-886a-4ffa0a6e4da3",
+        "shop_order": 21603108,
+        "shop_name": "Shop Thời Trang",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62a1796e-32f8-4968-9b20-42f60a6e4cd3",
+        "shop_order": 21604086,
+        "shop_name": "Shop Ngọc Duy",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62a1961a-e068-48c3-b33c-4cd90a6e4d53",
+        "shop_order": 21604749,
+        "shop_name": "COMEDY LUXURY",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62b40f26-d95c-403d-8ded-44450a6e4e0c",
+        "shop_order": 21651196,
+        "shop_name": "TiktokShop",
+        "shop_type": 3
+      },
+      {
+        "shop_id": "62cd46eb-40b0-45f7-9434-43330a6e4cd4",
+        "shop_order": 21685401,
+        "shop_name": "MIT Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62d4c9a9-3a40-48ad-9fc0-4ad50a6e4d77",
+        "shop_order": 21695026,
+        "shop_name": "*TAMIA - Đồ lót y tế*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62f21f0d-8230-426e-99e1-4df50a6e4e64",
+        "shop_order": 21737075,
+        "shop_name": "Lý Thu Mai",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62f383b6-8188-4087-b910-47500a6e4d57",
+        "shop_order": 21739295,
+        "shop_name": "Shop Thảo Linh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62f47704-d658-48d7-9206-4f630a6e4e65",
+        "shop_order": 21740234,
+        "shop_name": "THỜI TRANG THỂ THAO SỐ 1 *",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6304acf1-bd68-43d0-866c-4f0a0a6e4cd4",
+        "shop_order": 21763203,
+        "shop_name": "Alice's",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6316b2b6-fbec-427e-9450-4faa0a6e4d58",
+        "shop_order": 21784958,
+        "shop_name": "XM Tuệ Nhi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "632d156d-0724-4c33-aa0c-41b50a6e4d74",
+        "shop_order": 21814394,
+        "shop_name": "Cửa Hàng Phụ Kiện Điện Thoại",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "633a844e-504c-40b8-bb40-47ae0a6e4e66",
+        "shop_order": 21834863,
+        "shop_name": "TỔNG KHO VN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63466cb4-8e80-4fd8-bacc-4a900a6e4e0c",
+        "shop_order": 21850964,
+        "shop_name": "FERRINI CLOTHING",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "634d94e6-5874-4601-bb2e-47790a6e4e66",
+        "shop_order": 21860610,
+        "shop_name": "Phương Nga Shop.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "635f8939-071c-4462-b736-483a0a6e4cd2",
+        "shop_order": 21881738,
+        "shop_name": "Lien Nguyen",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6360941a-1e10-4f6a-b524-40c20a6e4d78",
+        "shop_order": 21882666,
+        "shop_name": "Hàng nhập khẩu***",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6382f684-6784-4bb2-8533-4ded0a6e4e66",
+        "shop_order": 21928916,
+        "shop_name": "Áo điều hòa - sưởi ấm AZUKI chính hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "639ad700-b4ac-4193-9b00-46ec0a6e4d78",
+        "shop_order": 21960452,
+        "shop_name": "MWG (CÔNG TY CỔ PHẦN THẾ GIỚI DI ĐỘNG)",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63a349b1-899c-4586-9c3f-4be00a6e4d57",
+        "shop_order": 21970879,
+        "shop_name": "Old Music - Phamnguyen",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "63abeaed-1c88-4055-9810-0acf0a6e4c24",
+        "shop_order": 21981528,
+        "shop_name": "NOAM",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63ad1075-f1ac-4e81-8c45-466e0a6e4e65",
+        "shop_order": 21982866,
+        "shop_name": "Shop sỉ Mai Hứa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63b2b7e5-74b8-45a0-a0b6-43de0a6e4d75",
+        "shop_order": 21988490,
+        "shop_name": "Banamo Fashion",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63b69574-1c08-492c-8e57-46570a6e4cd3",
+        "shop_order": 21995114,
+        "shop_name": "Korea Fashion",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63db5ebf-1998-42dc-ace8-48120a6e4c39",
+        "shop_order": 22019895,
+        "shop_name": "ShopMinhHieu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63e4535b-3590-4256-a1e9-48270a6e4c39",
+        "shop_order": 22030215,
+        "shop_name": "Vườn ươm cây giống 3 miền",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63e4b225-c050-425c-bf4b-4b070a6e4c39",
+        "shop_order": 22031081,
+        "shop_name": "Đá Phong Thuỷ NVQ",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "63e61487-a610-4d1d-a2b6-47d50a6e4d77",
+        "shop_order": 22032909,
+        "shop_name": "Mỹ Phẩm Cửa Hàng Chính Hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63f8758d-d300-4361-907e-449d0a6e4c39",
+        "shop_order": 22054900,
+        "shop_name": "Nhà sách chính hãng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "63fdbd86-ed28-4651-8a34-44940a6e4cd3",
+        "shop_order": 22060875,
+        "shop_name": "Sức khoẻ người việt",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64017592-0edc-45c3-b27b-47590a6e4d78",
+        "shop_order": 22065274,
+        "shop_name": "Ngọc Anh Shop*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "641c2859-267c-4898-b160-46b40a6e4c39",
+        "shop_order": 22095932,
+        "shop_name": "Thế giới bé yêu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64218de0-fc78-4537-a378-45760a6e4c39",
+        "shop_order": 22101898,
+        "shop_name": "MTL HEALTHPOST CO, LTD",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6423f922-52cc-4895-9b72-44860a6e4c39",
+        "shop_order": 22104720,
+        "shop_name": "FLG Group",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "642a8435-7a4c-4fd2-92ac-47c70a6e4d75",
+        "shop_order": 22111868,
+        "shop_name": "Shoppp Mai Nguyễn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "643d155c-a778-4319-98c5-499a0a6e4c39",
+        "shop_order": 22131425,
+        "shop_name": "Vietfarm..",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "643dfda6-bcf0-47fd-8c2d-42310a6e4e65",
+        "shop_order": 22132051,
+        "shop_name": "VUON HOA SEN SUNG HOANG KHANH 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64479021-4740-4808-88fb-4da30a6e4d74",
+        "shop_order": 22141927,
+        "shop_name": "Thu Thủy Chuyên QC Sale.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "644a382f-55a0-44eb-b281-41a60a6e4c39",
+        "shop_order": 22144640,
+        "shop_name": "VỰA KHÔ SẠCH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "645354b5-3820-4823-8fdb-4dcd0a6e4d77",
+        "shop_order": 22150172,
+        "shop_name": "nhà thuốc Quỳnh Hoan",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "645ee172-fb08-4377-b616-42f90a6e4c39",
+        "shop_order": 22161388,
+        "shop_name": "Tổng kho gia dụng",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "646f4035-2e14-4bee-8299-499a0a6e4e0c",
+        "shop_order": 22177093,
+        "shop_name": "MỸ HẠNH STORE THỜI TRANG CAO CẤP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6475b594-81b4-453f-afbc-41210a6e4c39",
+        "shop_order": 22182716,
+        "shop_name": "Callia",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64786094-7048-4424-aea0-4cf20a6e4c39",
+        "shop_order": 22185396,
+        "shop_name": "Shop Hàn Nhi",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64796db6-b574-4626-9c75-472f0a6e4d77",
+        "shop_order": 22186158,
+        "shop_name": "lynh lynk cs3",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "647aae3d-8ccc-4086-add4-495b0a6e4d75",
+        "shop_order": 22187316,
+        "shop_name": "Msmile Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "647ab568-7350-4ce0-9575-4a610a6e4c39",
+        "shop_order": 22187363,
+        "shop_name": "Shop thời tranggg",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "648fc42f-77e8-4388-a553-4b770a6e4c39",
+        "shop_order": 22207509,
+        "shop_name": "Vật Tư Ngành Nước",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64b8cc6d-d380-4bb8-8741-49720a6e4c39",
+        "shop_order": 22249961,
+        "shop_name": "Shop tiện ích",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "64d4443b-eb7c-416e-b985-41000a6e4c39",
+        "shop_order": 22278807,
+        "shop_name": "Shop Mụn Dừa Bình Định",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6516796e-b964-41e1-9d55-418a0a6e4c3b",
+        "shop_order": 22346962,
+        "shop_name": "Shop Thời Trang Hoa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6528bdd3-f52c-4bf6-8cb9-4bf80a6e4c3b",
+        "shop_order": 22365048,
+        "shop_name": "Kho Hàng Tổng Hợp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6532217f-5f14-4e6b-aacf-49ad0a6e4d76",
+        "shop_order": 22374622,
+        "shop_name": "Win Win",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65323a0b-7d00-4e71-95fa-4c530a6e4d76",
+        "shop_order": 22374769,
+        "shop_name": "Thế giới đồ chơi ;;",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "653f2b6c-a048-47f8-b4ef-42a10a6e4c3d",
+        "shop_order": 22386292,
+        "shop_name": "ICHIBAN 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65616eb3-9a10-479a-9114-48a40a6e4cd4",
+        "shop_order": 22419710,
+        "shop_name": "Tổng kho thời trang",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65698396-10a8-4e80-8196-4e3b0a6e4d78",
+        "shop_order": 22428121,
+        "shop_name": "Gia dụng Hữu Lương",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "658d2f7d-7f08-4349-be8c-4e310a6e4d76",
+        "shop_order": 22463308,
+        "shop_name": "Đồng Hồ Anh Huy",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6594d8cc-eb68-41e0-b07c-4f5c0a6e4c39",
+        "shop_order": 22469477,
+        "shop_name": "Cửa hàng gia dụng 199",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "659514fd-e1a8-409a-a72e-4c0f0a6e4d75",
+        "shop_order": 22469890,
+        "shop_name": "Gia Dụng Tiện Ích",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65951c6c-651c-4c11-8b09-439e0a6e4e64",
+        "shop_order": 22469953,
+        "shop_name": "Thiên Ân phụ kiện",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "659bbb4c-953c-439c-bd22-45be0a6e4d77",
+        "shop_order": 22476456,
+        "shop_name": "Đẹp fashion.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65d57736-88d4-4003-a19a-4e820a6e4e64",
+        "shop_order": 22515038,
+        "shop_name": "Store Manzano",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65d95406-210c-44da-adeb-4bc30a6e4ec6",
+        "shop_order": 22518281,
+        "shop_name": "Yorokobi gối y tế Việt Nam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65de92de-6c40-472b-9b02-45a90a6e4ec8",
+        "shop_order": 22522732,
+        "shop_name": "Zitico Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "65e82a9f-8f24-4ce1-9654-4dee0a6e4c39",
+        "shop_order": 22531744,
+        "shop_name": "HASAKI.VN - CÔNG TY CỔ PHẦN HASAKI BEAUTY & CLINIC",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "660a716b-4444-4cda-bade-42a70a6e4eca",
+        "shop_order": 22559531,
+        "shop_name": "Bingo Book",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "660fce49-0750-4258-a505-40310a6e4eca",
+        "shop_order": 22563982,
+        "shop_name": "JUN - CMD Sport Clothes",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6623351f-5be8-4d4d-9d05-40f90a6e4eca",
+        "shop_order": 22578252,
+        "shop_name": "RITAMI Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66416606-ebfc-4c0c-83d3-43dc0a6e4c3c",
+        "shop_order": 22598337,
+        "shop_name": "MB66 - Sport Clothes",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6641d56c-0f48-4cb0-a855-46c60a6e4e64",
+        "shop_order": 22598931,
+        "shop_name": "Lanchifeelsy@gmail.com",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "664c1fd1-2814-4640-a09b-42540a6e4c3d",
+        "shop_order": 22605939,
+        "shop_name": "Wasaki",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66615f3a-ed3c-453f-a724-4d070a6e4d76",
+        "shop_order": 22620726,
+        "shop_name": "Bazik Sport",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "666f90c3-c79c-4740-a24e-45e60a6e4d74",
+        "shop_order": 22631166,
+        "shop_name": "Quần áo trẻ em...",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "667a40b6-ccc8-4a8f-8a0a-45e10a6e4d74",
+        "shop_order": 22638614,
+        "shop_name": "AUTO SƠN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "667c1146-de88-41e9-a905-47110a6e4c3c",
+        "shop_order": 22640125,
+        "shop_name": "XINH XINH SHOP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "667cd9a6-2aa4-41dd-9d8e-4ffe0a6e4c3a",
+        "shop_order": 22640447,
+        "shop_name": "TN kids",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "667e3c3c-ddd4-4abe-baa8-42be0a6e4c3b",
+        "shop_order": 22641397,
+        "shop_name": "MACAS SƠN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "66c462a7-cdc4-4451-b2d5-4f040a6e4c3b",
+        "shop_order": 22694413,
+        "shop_name": "Tổng kho nước giặt T",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6708961b-9ec8-44f2-bca3-4ef00a6e4ec7",
+        "shop_order": 22742271,
+        "shop_name": "phương đông",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "670ca04c-27b4-47a9-93c0-4fa00a6e4c25",
+        "shop_order": 22745116,
+        "shop_name": "Tiktokbbs",
+        "shop_type": 3
+      },
+      {
+        "shop_id": "671f191f-a638-4044-8608-4b4b0a6e4c3a",
+        "shop_order": 22758356,
+        "shop_name": "Lisa Ngân Châu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "672048be-e588-412d-a062-475c0a6e4eca",
+        "shop_order": 22759084,
+        "shop_name": "shop Nhímm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6721f243-3f2c-448f-94a4-48060a6e4e64",
+        "shop_order": 22760403,
+        "shop_name": "Melia..",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6729915e-4858-4ce0-9f41-44500a6e4e64",
+        "shop_order": 22765047,
+        "shop_name": "Shop Bán Áo...",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "674186c4-d1a0-438c-a8e9-454a0a6e4d77",
+        "shop_order": 22781832,
+        "shop_name": "DAC design",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "676e1960-3f08-43d1-814b-4eca0a6e4ec9",
+        "shop_order": 22813520,
+        "shop_name": "Ishoes",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "676fa61e-3864-41e5-917a-4f8b0a6e4d75",
+        "shop_order": 22814740,
+        "shop_name": "SHOP MỸ PHẨM...",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67764628-0998-4a3f-8681-47110a6e4d76",
+        "shop_order": 22818921,
+        "shop_name": "Cây Giống Việt Nam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "678868d6-fc24-498f-a8df-4c9f0a6e4c3c",
+        "shop_order": 22832811,
+        "shop_name": "Bách Hóa Xanh 999",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6788e8c8-b2d4-4325-ae3f-40a20a6e4d75",
+        "shop_order": 22833499,
+        "shop_name": "Shop Phương **",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6789a077-ca7a-41ef-932b-e20cf989aeeb",
+        "shop_order": 22653194,
+        "shop_name": "Crystial",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "67a040ef-54e4-4346-a25c-4d2a0a6e4ec8",
+        "shop_order": 22842202,
+        "shop_name": "Leeduonggluungocc",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67a2c652-7954-4710-be18-4fd20a6e4ec7",
+        "shop_order": 22843711,
+        "shop_name": "Jun - Speaker",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67a317c9-f580-48e2-9188-4ef40a6e4ec9",
+        "shop_order": 22844062,
+        "shop_name": "Mai Phương shop*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67a3289c-7064-4259-a3c9-40af0a6e4c3d",
+        "shop_order": 22844150,
+        "shop_name": "Mộc Lam Shop VP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67a58ef5-8954-48e1-b303-46650a6e4e65",
+        "shop_order": 22845716,
+        "shop_name": "BOXME VIỆT NAM - HÀNG NHẸ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67ad5ee7-b866-4e8a-8299-fee8919fa066",
+        "shop_order": 22672347,
+        "shop_name": "Anh Apple",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "67ad80df-75b0-4c7a-a7c0-43c50a6e4c3b",
+        "shop_order": 22852053,
+        "shop_name": "thoitrangcaocapnu6868",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67aeadfb-db48-4fd5-83b8-40ba0a6e4cd3",
+        "shop_order": 22853052,
+        "shop_name": "Shop phụ kiện ZipZip",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67b4387d-821c-4fc1-b2f7-43960a6e4d74",
+        "shop_order": 22857499,
+        "shop_name": "Hàng Thiết Kế **",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67b587c7-c27c-45b1-a912-27b20a6e4cd3",
+        "shop_order": 22858485,
+        "shop_name": "Linéa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67b7daba-edf4-4314-9d9f-4c2f0a6e4ec8",
+        "shop_order": 22860215,
+        "shop_name": "HT_Group",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67bd8498-22c4-475d-9588-4d0d0a6e4e65",
+        "shop_order": 22864616,
+        "shop_name": "Thời Trang Thiều Hoa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67c5550a-a320-4b22-af7f-499d0a6e4d74",
+        "shop_order": 22869972,
+        "shop_name": "Shop Toàn Thịnh.",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67c55ffb-a3b8-4af5-b813-42860a6e4e64",
+        "shop_order": 22870038,
+        "shop_name": "Shinki Việt Nam",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67d7f333-8d70-4a30-a063-44ac0a6e4c3d",
+        "shop_order": 22882264,
+        "shop_name": "Hoa Trà Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67d8da32-d0c0-4b62-a07b-42550a6e4d76",
+        "shop_order": 22882715,
+        "shop_name": "Tổng kho gia dụng VN*",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67e131e9-84ac-40a5-ad39-22550a6e4ec9",
+        "shop_order": 22888102,
+        "shop_name": "Công ty HotelCareVN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67e22c46-b01c-4fd1-ad10-45240a6e4c3b",
+        "shop_order": 22888629,
+        "shop_name": "My Thuận",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67ecf036-a000-49d5-8046-45140a6e4cd3",
+        "shop_order": 22894915,
+        "shop_name": "Shop 3AE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67f5f2f2-1e18-4fd1-a2f5-44880a6e4d77",
+        "shop_order": 22899671,
+        "shop_name": "SHOP HIỀN LƯƠNG",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67fc9434-48e4-43f5-b5e6-49800a6e4c3b",
+        "shop_order": 22903309,
+        "shop_name": "Tổng Kho Yến Phạm",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "67ff125a-0324-49cf-a7b0-42810a6e4ec9",
+        "shop_order": 22904741,
+        "shop_name": "Hải Lynh Beauty & Cosmetic",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "680eea2a-af3c-4689-84b9-4c360a6e4d78",
+        "shop_order": 22912966,
+        "shop_name": "Thanh Thanh vp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "68147778-dbfc-40dc-a23f-4d130a6e4d78",
+        "shop_order": 22915047,
+        "shop_name": "Shop Quang Huy - Thúy Hà",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "681c5a0d-9ebc-4d0c-83f4-421d0a6e4ec7",
+        "shop_order": 22919293,
+        "shop_name": "Cửa Hàng Trang Bị Cuộc Sống Diver",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "683560ef-b400-4a1d-83ba-4d8d0a6e4e64",
+        "shop_order": 22933147,
+        "shop_name": "SHOP HH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6a9f94e7-50a9-40c9-8ba3-5b8dc31e4d3b",
+        "shop_order": 22193289,
+        "shop_name": "Huynn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6cd06bc3-1cbf-41b2-8130-f6867a1e32b5",
+        "shop_order": 22746083,
+        "shop_name": "Thùy Trang  Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "623725ca-7940-44fb-9250-4fc60a6e4d57",
+        "shop_order": 21248964,
+        "shop_name": "Ken kisd",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62397a8d-9460-4a7e-9415-4c1c0a6e4e65",
+        "shop_order": 21258106,
+        "shop_name": "gia dụng 88",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62496447-cdc4-4210-8dbd-4ad60a6e4c24",
+        "shop_order": 21317603,
+        "shop_name": "Ánh Hồng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "625be5c7-3a18-4d73-9fc7-48470a6e4d53",
+        "shop_order": 21380729,
+        "shop_name": "THƯƠNG HOÀI",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "62616130-e72f-46ee-b73c-395bd82fbcfa",
+        "shop_order": 22588564,
+        "shop_name": "Tapo Shop - Thời Trang Xuất Khẩu",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "626a4467-171c-4ae6-8e41-49c90a6e4d76",
+        "shop_order": 21429403,
+        "shop_name": "Vipstore",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6270ad12-f788-4faf-b61b-43ac0a6e4d59",
+        "shop_order": 21442384,
+        "shop_name": "Rèm Cửa Thảo Chi",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "627155d0-41d4-4d52-ac67-4a020a6e4da3",
+        "shop_order": 21445618,
+        "shop_name": "cửa hàng việt thanh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62820969-db58-458d-a535-44630a6e4d59",
+        "shop_order": 21502524,
+        "shop_name": "Đinh Thị Ngọc Quỳnh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6286f1a3-700c-4d5c-832e-42310a6e4cd3",
+        "shop_order": 21518602,
+        "shop_name": "shop_sunshine",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "617381c8-a7d8-40c0-8d1e-49170a6e4cd2",
+        "shop_order": 20383750,
+        "shop_name": "TỔNG KHO NINH HIỆP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60c1c387-c7a8-4306-89b6-40100a784c66",
+        "shop_order": 19565215,
+        "shop_name": "Dược Phong Vũ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60c2e306-5aac-4a22-b32a-46a30a784c67",
+        "shop_order": 19572510,
+        "shop_name": "Cty Trí Tiến",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60c4b083-fbd4-4290-b370-44f30a6e4c24",
+        "shop_order": 19590504,
+        "shop_name": "Đoàn Tuấn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60d0a8a1-2ebc-480c-8637-4c250a6e4c26",
+        "shop_order": 19674347,
+        "shop_name": "Trung Tâm Kính mắt Hà Nội 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60d5665d-3a40-4d2e-91cd-41120a6e4c26",
+        "shop_order": 19702992,
+        "shop_name": "Mạnh Nguyễn Store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60f4d408-edec-415b-8097-40f20a6e4d58",
+        "shop_order": 19857848,
+        "shop_name": "bs tiểu diệu",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60f4ebad-b3a0-4605-8924-474f0a6e4d74",
+        "shop_order": 19858696,
+        "shop_name": "Máy Thực Phẩm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60715409-7854-457c-8732-48480a6e4c24",
+        "shop_order": 19122153,
+        "shop_name": "Shop Gia Dụng Smart",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60726f65-d30c-4019-8a28-444f0a784c67",
+        "shop_order": 19125959,
+        "shop_name": "Thắm",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6073b4d7-b094-4a74-b5c9-45da0a6e4cd3",
+        "shop_order": 19130841,
+        "shop_name": "thuocsi.vn - Bắc Ninh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60755bc6-8154-43b4-bbb8-47a80a784c66",
+        "shop_order": 19142373,
+        "shop_name": "Giày xinh duy tình",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60878672-ce08-487f-9526-44060a784c66",
+        "shop_order": 19227841,
+        "shop_name": "Gym Yên Xá",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6092310e-7ccc-4640-973f-48150a784c68",
+        "shop_order": 19268238,
+        "shop_name": "88 Phụ Kiện Số",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "60996a28-4484-4698-abb8-42ef0a6e4c25",
+        "shop_order": 19306872,
+        "shop_name": "MiinRo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60ada554-d234-45de-8632-4e120a784c1b",
+        "shop_order": 19419073,
+        "shop_name": "Nước cắm hoa HADEE",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60ada596-ee54-40e6-b2e5-42bb0a6e4cd1",
+        "shop_order": 19419076,
+        "shop_name": "Victory",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60bcf2fa-2c84-414f-8fde-42020a784c67",
+        "shop_order": 19520587,
+        "shop_name": "Khui Store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "60bd79a5-5bac-4e26-88f9-4e6c0a784c19",
+        "shop_order": 19521432,
+        "shop_name": "Đồ Gia Dụng Thông Minh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61024699-34b0-4e66-b957-4fa40a6e4d53",
+        "shop_order": 19936581,
+        "shop_name": "Shop áo bóng đá",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "610a06d9-6e7c-47f6-8217-47740a6e4d58",
+        "shop_order": 19976731,
+        "shop_name": "IZNET",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "610bb8b5-0064-41fb-a894-4dd00a6e4d53",
+        "shop_order": 19986273,
+        "shop_name": "TỔNG KHO HÀN QUỐC",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "612f2a0b-43f4-4ebf-8bf6-45550a6e4d53",
+        "shop_order": 20090200,
+        "shop_name": "lâm phan",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6131a546-818c-42d9-a2e1-44cc0a6e4d57",
+        "shop_order": 20095249,
+        "shop_name": "Công ty CPTB Y Tế Nguyễn Đức",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61401d75-758c-4bad-a0ff-450f0a6e4d77",
+        "shop_order": 20135520,
+        "shop_name": "Gia Dụng KOREA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6142ba54-83f0-4cc8-856a-49a40a6e4c25",
+        "shop_order": 20144557,
+        "shop_name": "Công Ty Dược phẩm Uy Phát",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61442146-1a20-41b1-83cc-494d0a6e4e66",
+        "shop_order": 20150457,
+        "shop_name": "TOZY.VN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "614a8b56-ccec-49b7-b662-49c70a6e4cd3",
+        "shop_order": 20171657,
+        "shop_name": "Ngọc Liên Hoa Lan",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61503a55-f5e8-4b37-9ebb-48380a6e4d53",
+        "shop_order": 20195674,
+        "shop_name": "SHOP Trang Sức",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "6200bbb5-4d14-4935-bcae-4a8c0a6e4c24",
+        "shop_order": 21014330,
+        "shop_name": "nga nguyễn",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "62061b10-f678-4eab-85b5-42d00a6e4d74",
+        "shop_order": 21033303,
+        "shop_name": "'Giày Bánh Bèo",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "620f22b9-c6b0-4eca-8be3-437d0a6e4e0c",
+        "shop_order": 21067218,
+        "shop_name": "Mai Anh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6219e882-0980-460e-9b43-47340a6e4d74",
+        "shop_order": 21112201,
+        "shop_name": "Watch Store VN Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "62297812-b104-48bf-95b5-4bcb0a6e4d53",
+        "shop_order": 21182710,
+        "shop_name": "Donn Underwear",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "622ffc89-c4a4-40d1-b27f-43880a6e4d78",
+        "shop_order": 21212810,
+        "shop_name": "Vương_ An",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61b02d0d-d0e8-47f0-b89d-49b70a6e4e66",
+        "shop_order": 20700410,
+        "shop_name": "Hán Thuý Tupperware",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61b43c72-4ed0-4f7d-befe-49740a6e4e0c",
+        "shop_order": 20721872,
+        "shop_name": "Nguyễn đình thành",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61b76b95-2b1c-4012-b4e8-48af0a6e4d57",
+        "shop_order": 20737436,
+        "shop_name": "Cửa hàng Hà Quân",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61ce90de-5aa8-4d47-84b6-4db20a6e4e0c",
+        "shop_order": 20841398,
+        "shop_name": "phụ tùng chính hãng",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61d2b5ba-09f0-4c98-9e13-4f9f0a6e4d59",
+        "shop_order": 20856775,
+        "shop_name": "SHOP CÂY GIỐNG",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "61d65f8f-3840-4913-a5e1-4b260a6e4cd2",
+        "shop_order": 20873103,
+        "shop_name": "Kẹo fashion",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "61d72681-b0ec-4137-8dff-4d370a6e4d57",
+        "shop_order": 20878248,
+        "shop_name": "Hue Hoang",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c1999fd4-d9ce-4e34-96e8-d968639b16cc",
+        "shop_order": 22842110,
+        "shop_name": "Gia Dụng Thông Minh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c4dc7664-4671-4e5c-aab3-3584cb7518af",
+        "shop_order": 21895908,
+        "shop_name": "BH Laptop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "c55671c6-eff7-40ec-9d39-515bae809aa1",
+        "shop_order": 22575842,
+        "shop_name": "Rainbow Handmade",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c5bd440c-30e1-4691-a269-58050782c8ce",
+        "shop_order": 22870027,
+        "shop_name": "Evashop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c681b788-b8d5-4481-80e2-a4b2eb4baa3f",
+        "shop_order": 22301463,
+        "shop_name": "Fashion new store",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c82a5f00-c7cb-45a3-a506-144716285725",
+        "shop_order": 22163776,
+        "shop_name": "Hoà Hợp - Vải - Phụ Liệu - May",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c8b97151-a33f-461b-b8ec-4866429bdb74",
+        "shop_order": 22738441,
+        "shop_name": "Vũ thị Ánh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "c929d3ea-4cc4-4dfa-a74a-21abb6e5ae64",
+        "shop_order": 22539661,
+        "shop_name": "Moonshop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "cfa9b3c4-9318-4074-a0ee-edff03f7bc88",
+        "shop_order": 22802725,
+        "shop_name": "Chất Việt",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "d1b93952-a797-4b64-9dcf-edaeb55d2c01",
+        "shop_order": 22831803,
+        "shop_name": "Masterphone",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "d5ac2aa8-8576-46f5-88d9-8fb044dd261a",
+        "shop_order": 22749555,
+        "shop_name": "SHOP PHỤ KIỆN HOÀNG ĐẾ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "da3d130c-8e22-42a0-a740-29b5955fbfba",
+        "shop_order": 22378246,
+        "shop_name": "công ty TNHH thiết bị và phụ kiện QHP",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "db22abbc-e28c-4cf9-8bcf-5fc7439b8578",
+        "shop_order": 22502122,
+        "shop_name": "Phụ Kiện VHH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "db83e29f-6705-4c27-9a0e-d112e8534d36",
+        "shop_order": 22459348,
+        "shop_name": "QuynNa",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "dcbfd996-a107-467e-a6bf-2e6401921963",
+        "shop_order": 22935866,
+        "shop_name": "Shop Nông Sản",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "dccbf799-e5a2-4381-8e29-bb9eb6f69536",
+        "shop_order": 22632368,
+        "shop_name": "kính house",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "dd4f24cc-adf7-4db9-bb08-512f1ca7d8a5",
+        "shop_order": 22218817,
+        "shop_name": "Trương",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "de3aa75c-e9fd-4880-b6fd-2acc6027b77e",
+        "shop_order": 22592114,
+        "shop_name": "Nội Thất Ô Tô",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "e0020a70-d4ba-4f0f-a66d-d2b233a934b1",
+        "shop_order": 22922791,
+        "shop_name": "Út ít shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "e26718b7-7c61-4643-9c72-14bd649effe4",
+        "shop_order": 22638901,
+        "shop_name": "Shop Ben",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "967c95db-1c30-455b-8917-60a90715a618",
+        "shop_order": 22341619,
+        "shop_name": "SKY2 GROUP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "98bb5717-20d3-445d-806d-e033ca9900f4",
+        "shop_order": 22888282,
+        "shop_name": "Thời trang công sở cao cấp KACCI",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "9a48cbcd-9198-4afd-b19b-b1bb53c82945",
+        "shop_order": 22924841,
+        "shop_name": "shop đồng hồ",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9a532846-a385-4e4b-9b74-42cec3378c51",
+        "shop_order": 22884969,
+        "shop_name": "CÔNG TY CỔ PHẦN NỘI THÁT BAYA",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "9a5806a3-5068-47e4-bbd1-8da4998a4839",
+        "shop_order": 22923833,
+        "shop_name": "Shop nông nghiệp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "a0fac0c4-14d3-4a11-b47b-9520ddfe7e6b",
+        "shop_order": 21765569,
+        "shop_name": "Trang",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "a18ce509-46d0-45ab-a9b7-96b1447a50f1",
+        "shop_order": 22651774,
+        "shop_name": "Vòng Phong Thủy Phùng Gia 1",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "a3f98807-e7ef-435f-84b0-ae00f36a9cde",
+        "shop_order": 22777095,
+        "shop_name": "TVCP - Kho Bình Dương",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "a570d5bd-07d0-4401-ada4-17cd4a5a55d7",
+        "shop_order": 22333739,
+        "shop_name": "Anh Watch",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "a700c322-0af2-4516-863e-fd5d49d50816",
+        "shop_order": 22913005,
+        "shop_name": "PAGKID SHOP 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "a70c387a-7c27-4b69-be36-89318726c4ca",
+        "shop_order": 22906941,
+        "shop_name": "GIA DỤNG TIỆN TÍCH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "a81e9c1f-8ad1-48e1-b6a6-05bf5252d929",
+        "shop_order": 22930702,
+        "shop_name": "Hồng Cam",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "a8905c63-1375-4033-b4a6-6aac5b1a3d83",
+        "shop_order": 22849581,
+        "shop_name": "Hà Đỗ Authentic - Mỹ Phẩm Make Up Chuyên Nghiệp",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "aba47e01-0551-4222-af30-55670c2beacb",
+        "shop_order": 22874728,
+        "shop_name": "CÔNG TY CỔ PHẦN NHÀ THÁI",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "ac2b5271-0e81-4241-8448-03d6fd22c218",
+        "shop_order": 22290388,
+        "shop_name": "HaoHao",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "aed6c78d-f4cf-4d37-8e6f-cb673dfdd18a",
+        "shop_order": 22633847,
+        "shop_name": "Đông Phương",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "af3a92f9-ecf9-4ee9-b624-97c9913cf598",
+        "shop_order": 22905574,
+        "shop_name": "Trang sức Thùy Dung",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "af88abd3-869c-4171-95dc-a67915a7c661",
+        "shop_order": 22914897,
+        "shop_name": "Shop Quần Nữ HT 2",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "b16dd1dd-445e-49d1-9ba2-c584366d806a",
+        "shop_order": 22617222,
+        "shop_name": "Kho Thu Trang",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "b3d2731b-326b-4d95-b305-d2d4d3e6de5e",
+        "shop_order": 22619275,
+        "shop_name": "Nguyễn an",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "b437885f-f41d-4c12-8538-6d450bea7975",
+        "shop_order": 22712535,
+        "shop_name": "Aspeed",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "b9511a54-16a4-446b-b261-62dced44ed09",
+        "shop_order": 22703642,
+        "shop_name": "An An Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "ba20cc16-860e-4e02-a75f-953bb2d98135",
+        "shop_order": 22892951,
+        "shop_name": "Wimen CS 4",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "ba92590e-ffa5-47ad-a705-a169138cf60c",
+        "shop_order": 21885211,
+        "shop_name": "Shop shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "6e6876fb-f02a-40f8-874c-0f0a09a78764",
+        "shop_order": 22854580,
+        "shop_name": "Hana Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "706b4590-6da0-436b-8bad-e28ce9a1a422",
+        "shop_order": 22654853,
+        "shop_name": "Embe.official",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "70c78c23-26c4-4ff4-924c-76885582d6e1",
+        "shop_order": 22758964,
+        "shop_name": "GD Xanh",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7263e9be-19f5-44b8-8723-f4c091391abf",
+        "shop_order": 22578416,
+        "shop_name": "Nguyễn chí linh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "798d829d-a725-436c-9ee8-2d6e21e74e45",
+        "shop_order": 22618609,
+        "shop_name": "HUY THANH HT25",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "79eff069-32e9-4f7f-9568-fc8dcada1019",
+        "shop_order": 21749699,
+        "shop_name": "Đinh Thị Khuy",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "7b9d4364-514c-4fb6-9ed3-93fb17a95580",
+        "shop_order": 22829812,
+        "shop_name": "KB CƯƠNG",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7c7a862a-d7c6-4b38-9e48-020517a9eea7",
+        "shop_order": 22552963,
+        "shop_name": "Tuyết kiu si tuyển",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "7d956bf3-3356-47e1-9707-921aa930ece7",
+        "shop_order": 22926096,
+        "shop_name": "Hương Điệp Shop",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "81e8979f-0fc3-4fdf-b549-ee9a67893af9",
+        "shop_order": 22922846,
+        "shop_name": "TÂY SƠN",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "88cfdb37-446a-446d-8e3c-31591e8b9714",
+        "shop_order": 22882074,
+        "shop_name": "Fashion Design",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "88e6d367-db91-40f6-be2d-cb44de66bca8",
+        "shop_order": 22614761,
+        "shop_name": "CH VLNK",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "8a0df7cf-9704-4499-9655-495060713642",
+        "shop_order": 22891258,
+        "shop_name": "Thanh Vân Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "8a888dcb-423c-422a-a711-ee34184a8142",
+        "shop_order": 22782221,
+        "shop_name": "Handu Home",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "8c00dcf4-afe6-448c-8e36-cab6cd4eddce",
+        "shop_order": 22892969,
+        "shop_name": "Bảo Anh Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "8fe8bae5-6b07-4e6a-988c-e81cd709e98c",
+        "shop_order": 22873131,
+        "shop_name": "TỔNG KHO TIỆN ÍCH",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "92d20944-c90c-48a8-8275-dda49076f346",
+        "shop_order": 22861593,
+        "shop_name": "RICHARD ADAM",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "e60265ed-c518-466d-8ac4-a1eb7c5f4c97",
+        "shop_order": 22625713,
+        "shop_name": "Hoangha89",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "e99916ca-022d-4a39-b98e-2783177691c6",
+        "shop_order": 22752401,
+        "shop_name": "Khánh Linh",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "ed416306-a674-4e57-a5b7-30a35431bfe2",
+        "shop_order": 21932766,
+        "shop_name": "Heo Khô Cháy Tỏi",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "ee828d0b-5c7c-473c-80b6-f65c6af9c397",
+        "shop_order": 22778396,
+        "shop_name": "Tasaki",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "ef07a4db-cbc8-4165-83f7-b567192f6cb0",
+        "shop_order": 22929804,
+        "shop_name": "MTBC",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "ef287738-8fc8-47e0-9b52-12ff2678f08d",
+        "shop_order": 22879366,
+        "shop_name": "Huyền Châu Shop",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "f191f89b-b8d0-424b-adf9-72fb8c6154e2",
+        "shop_order": 22776836,
+        "shop_name": "Decor nhà đẹp",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "f1a66549-fe84-4582-84db-f30adc0f8939",
+        "shop_order": 22916908,
+        "shop_name": "THK TIEN",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "f2638716-661b-427d-8db7-6f05d3eb369d",
+        "shop_order": 22533452,
+        "shop_name": "Luxury Store",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "f75e8fc3-df0a-4b94-bdf9-682ec7b365a2",
+        "shop_order": 22700122,
+        "shop_name": "Xưởng Chuyên Hàng Da",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "fab42c05-75d6-47bd-b9e5-50409fb4b7e4",
+        "shop_order": 22671998,
+        "shop_name": "Apple No1 - 178 Thái Hà",
+        "shop_type": 0
+      },
+      {
+        "shop_id": "fc41a485-9206-4670-a155-14f260e85587",
+        "shop_order": 22907179,
+        "shop_name": "Shop Hương Trần 17",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "fe7dcefe-a0a3-49be-814a-92652f756d81",
+        "shop_order": 22449901,
+        "shop_name": "Tổng kho lk VP",
+        "shop_type": 1
+      },
+      {
+        "shop_id": "fedae20a-dcd0-4964-bea7-fbc5cb5995ee",
+        "shop_order": 22697048,
+        "shop_name": "Shop Hải Đăng",
+        "shop_type": 1
+      }
+    ]
+  }
+]
