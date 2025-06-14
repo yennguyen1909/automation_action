@@ -1,0 +1,471 @@
+action_sequence_str,count
+verifySessionPackage → distributorCfmDeliver,140
+updateDeliverWorkshiftByCod → distributorCfmDeliver,75
+distributorCfmDeliver → distributorCfmDeliver,47
+verifySessionPackage → verifySessionPackage,45
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,41
+takeDeliveringPackages → distributorCfmDeliver,28
+distributorCfmDeliver → takeDeliveringPackages,27
+privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,22
+NVBCTakeAPhotoDelivery → distributorCfmDeliver,19
+putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,15
+privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,14
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver,14
+distributorCfmDeliver → verifySessionPackage,14
+distributorCfmDeliver → verifySessionPackage → verifySessionPackage,13
+verifySessionPackage → verifySessionPackage → verifySessionPackage,12
+distributorCfmDeliver → privateNotePackage,11
+verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage → distributorCfmDeliver,11
+assignCodPicking → assignCodPicking,10
+privateNotePackage → distributorCfmDeliver,10
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver,9
+changeAttributeForSurplus → privateNotePackage,8
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver,8
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver,7
+distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,7
+verifySessionPackage → verifySessionPackage → distributorCfmDeliver,7
+privateNotePackage → changeAttributeForSurplus,7
+privateNotePackage → updateDeliverWorkshiftByCod,7
+privateNotePackage → putPackages2Bag → assignBagWithIdentifyBag,6
+putPackages2Bag → assignBagWithIdentifyBag,6
+smartScaleScanningPackage → requestHandOverPackages → distributorCfmDeliver,6
+distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage,6
+verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,6
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver,6
+putPackages2Bag → putInBox,6
+updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,6
+distributorCfmDeliver → takeDeliveringPackages → distributorCfmDeliver,5
+verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver,5
+privateNotePackage → privateNotePackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,5
+distributorCfmReturning → takeReturningPackages,5
+updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod → distributorCfmDeliver,5
+updateDeliverWorkshiftByCod → printfPackage → verifySessionPackage → distributorCfmDeliver,5
+takeReturningPackages → distributorCfmReturning,5
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod,5
+verifySessionPackage → updateDeliverWorkshiftByCod,5
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver,5
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,4
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver,4
+privateNotePackage → updateDeliverWorkshiftByCod → NVBCTakeAPhotoDelivery → distributorCfmDeliver,4
+privateNotePackage → updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,4
+distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,4
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,4
+verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → distributorCfmDeliver,4
+privateNotePackage → privateNotePackage,4
+updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,4
+privateNotePackage → privateNotePackage → putPackages2Bag → assignBagWithIdentifyBag,4
+privateNotePackage → verifySessionPackage,3
+checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,3
+privateNotePackage → privateNotePackage → privateNotePackage → putPackages2Bag → assignBagWithIdentifyBag,3
+updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus,3
+verifySessionPackage → updateDeliverWorkshiftByCod → NVBCTakeAPhotoDelivery → distributorCfmDeliver,3
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,3
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,3
+verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,3
+distributorCfmDeliver → updateDeliverWorkshiftByCod → distributorCfmDeliver,3
+distributorCfmDeliver → updateDeliverWorkshiftByCod,3
+privateNotePackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,3
+privateNotePackage → updateDeliverWorkshiftByCod → updateDeliverWorkShiftPackage → privateNotePackage,3
+verifySessionPackage → smartScaleScanningPackage → distributorCfmDeliver,3
+distributorCfmDeliver → privateNotePackage → verifySessionPackage → verifySessionPackage,2
+distributorCfmDeliver → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,2
+verifySessionPackage → smartScaleScanningPackage → saveIsfrageImages → smartScaleScanningPackage → importStationByDistributer → distributorCfmReturning,2
+verifySessionPackage → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,2
+updateDeliverWorkshiftByCod → printfPackage → verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver,2
+saveSealForSpecialPackage → saveIsfrageImages → putPackages2Bag → putInBox,2
+verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,2
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver,2
+verifySessionPackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery,2
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → ChangeDeliverCodByConfirmDeliveringByOperator → RefundBill,2
+verifySessionPackage → verifySessionPackage → feedbackReDelivery → feedbackReDelivery → confirmIssueHandovers → distributorCfmDeliver,2
+privateNotePackage → changeAttributeForSurplus → distributorCfmDeliver,2
+verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,2
+privateNotePackage → updateDeliverWorkShiftPackage,2
+RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod,2
+assignCodPicking → PickupBill → confirmTmpPickedPackageStatus → updatePickedByCod → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,2
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage,2
+verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifySessionPackage,2
+verifySessionPackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver,2
+updateDeliverCod → editPackage,2
+verifySessionPackage → distributorCfmDeliver → updateDeliverWorkshiftByCod,2
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,2
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → privateNotePackage → saveIsfrageImages,2
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,2
+printfPackage → privateNotePackage,2
+changeAttributeForSurplus → privateNotePackage → distributorCfmDeliver,2
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver,2
+updateDeliverWorkshiftByCod → NVBCTakeAPhotoDelivery → distributorCfmDeliver,2
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver,2
+smartScaleScanningPackage → putPackages2Bag → putInBox,2
+editPackage → updateDeliverCod,2
+verifySessionPackage → privateNotePackage,2
+updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod,2
+printfPackage → distributorCfmDeliver,2
+takeDeliveringPackages → distributorCfmDeliver → verifySessionPackage,2
+printfPackage → updateDeliverWorkshiftByCod → verifySessionPackage → distributorCfmDeliver,2
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage,2
+assignCodPicking → confirmTmpPickedPackageStatus → updatePickedByCod → PickupBill → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,2
+printfPackage → confirmPackageHandover → verifySessionPackage,2
+distributorCfmDeliver → takeDeliveringPackages → distributorCfmDeliver → verifySessionPackage,2
+distributorCfmDeliver → privateNotePackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,2
+NVBCTakeAPhotoDelivery → distributorCfmDeliver → NVBCConfirmImageWorkshift,2
+distributorCfmDeliver → updateDeliverWorkshiftByCod → printfPackage → privateNotePackage → distributorCfmDeliver,2
+privateNotePackage → updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod → distributorCfmDeliver,2
+updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver,2
+verifySessionPackage → smartScaleScanningPackage → smartScaleScanningPackage → smartScaleScanningPackage → smartScaleScanningPackage → distributorCfmReturning → importStationByDistributer,2
+verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,2
+privateNotePackage → updateDeliverWorkShiftPackage → privateNotePackage,2
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,2
+distributorCfmDeliver → NVBCConfirmImageWorkshift → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → NVBCConfirmImageWorkshift → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → saveIsfrageImages → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+verifySessionPackage → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage → smartScaleScanningPackage → requestHandOverPackages → requestHandOverPackages → requestHandOverPackages → distributorCfmDeliver,1
+privateNotePackage → saveSealForSpecialPackage → saveIsfrageImages → saveSealForSpecialPackage → saveIsfrageImages → putPackages2Bag → smartScaleScanningPackage → putInBox,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → verifySessionPackage,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+changeAttributeForSurplus → privateNotePackage → distributorCfmDeliver → distributorCfmDeliver,1
+confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod,1
+privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → privateNotePackage → privateNotePackage → printfPackage,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage,1
+distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+assignCodPicking → updatePickedByCod → PickupBill → confirmTmpPickedPackageStatus → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+assignCodPicking → PickupBill → updatePickedByCod → confirmTmpPickedPackageStatus,1
+smartScaleScanningPackage → verifySessionPackage,1
+updateDeliverWorkshiftByCod → printfPackage → changeAttributeForSurplus → privateNotePackage → distributorCfmDeliver,1
+distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver,1
+distributorCfmDeliver → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+privateNotePackage → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → verifySessionPackage → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → ChangeDeliverCodByConfirmDeliveringByOperator → updateDelayDeliveringByCod → RefundBill,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+cfmDonePrepaymnet → Prepayment_qrBill,1
+cfmImpPkgFrPONew → smartScaleScanningPackage,1
+distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,1
+updateDeliverWorkshiftByCod → printfPackage → privateNotePackage → changeAttributeForSurplus → distributorCfmDeliver,1
+assignCodPicking → confirmTmpPickedPackageStatus → PickupBill → PickupCrossProvinceBill → updatePickedByCod,1
+TakeAPhotoWeightChange → TakeAPhotoWeightChange,1
+distributorCfmDeliver → ArriveDeliveringPoint → updateTmpDeliveringStatus → delayDeliverPackageReason → confirmTmpDeliveredPackageStatus → RefundBill,1
+distributorCfmDeliver → updateDeliverWorkshiftByCod → printfPackage → updateDeliverWorkshiftByCod → printfPackage → privateNotePackage → distributorCfmDeliver → distributorCfmDeliver,1
+RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus,1
+privateNotePackage → updateDeliverWorkshiftByCod → updateDeliverWorkShiftPackage → privateNotePackage → privateNotePackage → privateNotePackage → updateDeliverWorkshiftByCod → privateNotePackage,1
+verifySessionPackage → printfPackage,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → printfPackage,1
+verifySessionPackage → smartScaleScanningPackage → distributorCfmReturning → importStationByDistributer → ReturnBill → confirmTmpReturnedPackageStatus → updateReturnedByCod,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver,1
+confirmTmpReturnedPackageStatus → updateReturnedByCod → ReturnBill,1
+assignCodPicking → updatePickedByCod → PickupCrossProvinceBill → PickupBill → confirmTmpPickedPackageStatus → putPackages2Bag → putPackages2Bag → putPackages2Bag → putPackages2Bag → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+privateNotePackage → feedbackCancelPackage → changePackageStatus → feedbackCancelPackage → changePackageStatus,1
+distributorCfmDeliver → distributorCfmDeliver → printfPackage → updateDeliverWorkshiftByCod → privateNotePackage → distributorCfmDeliver → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage,1
+verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+takeDeliveringPackages → distributorCfmDeliver → distributorCfmDeliver,1
+privateNotePackage → privateNotePackage → privateNotePackage → smartScaleScanningPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → privateNotePackage,1
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → ChangeDeliverCodByConfirmDeliveringByOperator,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver,1
+distributorCfmDeliver → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill → privateNotePackage,1
+NVBCTakeAPhotoDelivery → checkPackageSealScanned → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+saveIsfrageImages → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → verifySessionPackage → verifySessionPackage → printfPackage,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateNotDeliveredByCod → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → distributorCfmDeliver → saveIsfrageImages → distributorCfmDeliver → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage,1
+privateNotePackage → updateDeliverWorkShiftPackage → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → privateNotePackage → updateDeliverWorkshiftByCod → printfPackage → verifySessionPackage → saveIsfrageImages → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus,1
+verifySessionPackage → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → smartScaleScanningPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → updateTmpDeliveringStatus → verifySessionPackage → updateNotDeliveredByCod → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+printfPackage → privateNotePackage → changeAttributeForSurplus → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod,1
+verifySessionPackage → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → verifySessionPackage → saveIsfrageImages → distributorCfmDeliver,1
+smartScaleScanningPackage → smartScaleScanningPackage → ChangePackageSize → ManualInput,1
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod,1
+NVBCConfirmImageWorkshift → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → printfPackage → privateNotePackage → changeAttributeForSurplus → distributorCfmDeliver → verifySessionPackage,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver → updateDeliverWorkshiftByCod,1
+assignCodPicking → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag → confirmTmpPickedPackageStatus → PickupBill → updatePickedByCod,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → privateNotePackage → verifySessionPackage,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage,1
+distributorCfmDeliver → takeDeliveringPackages → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → privateNotePackage → privateNotePackage,1
+NVBCConfirmImageWorkshift → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver,1
+confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → privateNotePackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → privateNotePackage → distributorCfmDeliver,1
+verifySessionPackage → verifySessionPackage → changeDelieverCartId → changeCustomerFirstAddress → editPackage → updateShipMoney → changeCustomerLastAddress → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → privateNotePackage → putPackages2Bag → assignBagWithIdentifyBag,1
+confirmTmpReturnedPackageStatus → ReturnBill → updateReturnedByCod,1
+verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → privateNotePackage,1
+changePackageStatus → changeCodForPackagesInCart → assignCodPicking → confirmTmpPickedPackageStatus → PickupBill → updateDelayPickingByCod → assignCodPicking → PickupBill → confirmTmpPickedPackageStatus → updateDelayPickingByCod → changePackageStatus → updatePickedByCod → PickupCrossProvinceBill → PickupBill → confirmTmpPickedPackageStatus,1
+printfPackage → verifySessionPackage → NVBCTakeAPhotoDelivery → saveSealForSpecialPackage → distributorCfmDeliver,1
+confirmTmpPickedPackageStatus → PickupBill → PickupCrossProvinceBill → updatePickedByCod → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → ChangeDeliverCodByConfirmDeliveringByOperator → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod,1
+changePackageStatus → confirmTmpPickedPackageStatus → updatePickedByCod → PickupCrossProvinceBill → PickupBill,1
+smartScaleScanningPackage → importStationByDistributer → distributorCfmReturning → confirmTmpReturnedPackageStatus → updateReturnedByCod → ReturnBill,1
+distributorCfmDeliver → verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver,1
+privateNotePackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → privateNotePackage → privateNotePackage,1
+distributorCfmDeliver → privateNotePackage → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod,1
+verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifySessionPackage → printfPackage,1
+distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → takeDeliveringPackages → verifySessionPackage,1
+saveIsfrageImages → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod,1
+verifySessionPackage → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → smartScaleScanningPackage → distributorCfmDeliver,1
+confirmTmpPickedPackageStatus → PickupBill → updatePickedByCod → saveSealForSpecialPackage → saveIsfrageImages → putPackages2Bag → smartScaleScanningPackage → saveIsfrageImages → putInBox,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver → checkPackageSealScanned → saveIsfrageImages → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → distributorCfmDeliver,1
+verifySessionPackage → changeDelieverCartId → changeCustomerFirstAddress → changeCustomerLastAddress → changeTransferStation → editPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → privateNotePackage,1
+verifySessionPackage → NVBCTakeAPhotoDelivery,1
+assignCodPicking → PickupBill → confirmTmpPickedPackageStatus → PickupCrossProvinceBill → updatePickedByCod → putPackages2Bag → putPackages2Bag → smartScaleScanningPackage → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver,1
+distributorCfmDeliver → saveIsfrageImages,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage,1
+saveIsfrageImages → confirmTmpDeliveredPackageStatus → RefundBill,1
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → privateNotePackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver → privateNotePackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → NVBCTakeAPhotoDelivery → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → verifySessionPackage → verifySessionPackage → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod,1
+verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage → smartScaleScanningPackage → distributorCfmDeliver,1
+privateNotePackage → updateDeliverWorkShiftPackage → privateNotePackage → privateNotePackage,1
+ImportPkgCheckIn → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → ScanPackageToBag,1
+distributorCfmDeliver → NVBCConfirmImageWorkshift → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateDeliverCod → editPackage → NVBCConfirmImageWorkshift → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → NVBCConfirmImageWorkshift → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod,1
+confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateDeliverWorkshiftByCod → saveIsfrageImages → privateNotePackage → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → editPackage → updateDeliverCod,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → privateNotePackage → privateNotePackage → verifySessionPackage → privateNotePackage → privateNotePackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+ReturnBill → confirmTmpReturnedPackageStatus → updateReturnedByCod,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → confirmPackageHandover,1
+distributorCfmDeliver → printfPackage → updateDeliverWorkshiftByCod → printfPackage → privateNotePackage → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+privateNotePackage → privateNotePackage → updateDeliverWorkshiftByCod → saveIsfrageImages,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill,1
+verifySessionPackage → smartScaleScanningPackage → smartScaleScanningPackage → smartScaleScanningPackage → smartScaleScanningPackage → importStationByDistributer → distributorCfmReturning,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → checkPackageSealScanned → checkPackageSealScanned → checkPackageSealScanned → checkPackageSealScanned → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+saveSealForSpecialPackage → saveIsfrageImages → putPackages2Bag → saveIsfrageImages → putInBox,1
+privateNotePackage → reassignDeliverCart → updateDeliverWorkShiftPackage,1
+verifySessionPackage → distributorCfmDeliver → putPackages2Bag → assignBagWithIdentifyBag,1
+assignCodPicking → confirmTmpPickedPackageStatus → updatePickedByCod → PickupBill → PickupCrossProvinceBill → putPackages2Bag → smartScaleScanningPackage → smartScaleScanningPackage → takeOutPackages2Bag → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+confirmTmpPickedPackageStatus → PickupBill → updateDelayPickingByCod → confirmTmpPickedPackageStatus → updateDelayPickingByCod → PickupBill → updatePickedByCod → confirmTmpPickedPackageStatus → PickupCrossProvinceBill → PickupBill,1
+printfPackage → verifySessionPackage → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+confirmTmpDeliveredPackageStatus → updateDeliveredCompletelyByCod → Refund_payment_qrBill,1
+privateNotePackage → changeAttributeForSurplus → updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+ImportPkgCheckIn → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+TakeAPhotoSignatureTiktokPackage → DteamTakeAPhotoDeliver → confirmTmpDeliveredPostOffice → updateTmpDeliveredPostOffice → RefundBill,1
+smartScaleScanningPackage → requestHandOverPackages → distributorCfmDeliver → smartScaleScanningPackage,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → smartScaleScanningPackage → importStationByDistributer → distributorCfmReturning,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+printfPackage → updateDeliverWorkshiftByCod → privateNotePackage → TakeAPhotoSignatureTiktokPackage → DteamTakeAPhotoDeliver → updateTmpDeliveredPostOffice → RefundBill → confirmTmpDeliveredPostOffice,1
+updateDeliverWorkshiftByCod → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+PickupBill → confirmTmpPickedPackageStatus → updateDelayPickingByCod → PickupBill → confirmTmpPickedPackageStatus → updatePickedByCod → PickupCrossProvinceBill,1
+distributorCfmDeliver → privateNotePackage → changePackageStatus → RefundBill → confirmPackageHandover,1
+verifySessionPackage → editPackage → changeCustomerFirstAddress → changeDelieverCartId → changeCustomerLastAddress → smartScaleScanningPackage → printfPackage → printfPackage → printfPackage,1
+verifySessionPackage → distributorCfmDeliver → printfPackage,1
+takeDeliveringPackages → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+smartScaleScanningPackage → smartScaleScanningPackage → requestHandOverPackages → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus,1
+updateDeliverWorkshiftByCod → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+updateDeliverWorkShiftPackage → privateNotePackage → privateNotePackage,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → privateNotePackage → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver,1
+NVBCConfirmImageWorkshift → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,1
+verifySessionPackage → smartScaleScanningPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateNotDeliveredByCod → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → verifySessionPackage → verifySessionPackage → confirmPackageHandover,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → ChangeDeliverCodByConfirmDeliveringByOperator → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus,1
+updateDeliverWorkshiftByCod → printfPackage → privateNotePackage → changeAttributeForSurplus → NVBCTakeAPhotoDelivery → updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+distributorCfmDeliver → distributorCfmDeliver → privateNotePackage → privateNotePackage,1
+privateNotePackage → smartScaleScanningPackage → putPackages2Bag → putInBox,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → updateNotDeliveredByCod → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → privateNotePackage,1
+distributorCfmReturning → importStationByDistributer,1
+assignCodPicking → PickupBill → confirmTmpPickedPackageStatus → updateDelayPickingByCod,1
+privateNotePackage → updateDeliverWorkshiftByCod → saveIsfrageImages → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+privateNotePackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → NVBCConfirmImageWorkshift → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod,1
+distributorCfmDeliver → NVBCConfirmImageWorkshift → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → saveIsfrageImages → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → updateDeliverWorkshiftByCod,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver,1
+changePackageStatus → assignCodPicking → updateDelayPickingByCod → confirmTmpPickedPackageStatus → PickupBill → assignCodPicking → updatePickedByCod → PickupBill → confirmTmpPickedPackageStatus → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → saveIsfrageImages → verifySessionPackage → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+verifySessionPackage → confirmPackageHandover,1
+verifySessionPackage → updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod → verifySessionPackage → distributorCfmDeliver,1
+distributorCfmDeliver → privateNotePackage → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → privateNotePackage,1
+updateDelayPickingByCod → PickupBill → confirmTmpPickedPackageStatus,1
+saveIsfrageImages → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus,1
+distributorCfmDeliver → privateNotePackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → privateNotePackage,1
+updateDeliverWorkshiftByCod → updateDeliverWorkshiftByCod → verifySessionPackage → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → printfPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+TakeAPhotoSignatureTiktokPackage → DteamTakeAPhotoDeliver → RefundBill → updateTmpDeliveredPostOffice → confirmTmpDeliveredPostOffice,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+updatePickedByCod → confirmTmpPickedPackageStatus → PickupBill,1
+distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage,1
+distributorCfmDeliver → NVBCTakeAPhotoDelivery → distributorCfmDeliver → privateNotePackage → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,1
+distributorCfmDeliver → distributorCfmDeliver → saveIsfrageImages → distributorCfmDeliver → distributorCfmDeliver,1
+takeDeliveringPackages → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → confirmIssueHandovers → feedbackReDelivery → feedbackReDelivery → distributorCfmDeliver,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver → verifySessionPackage → updateDeliverWorkshiftByCod,1
+verifySessionPackage → verifySessionPackage → editPackage → changeCustomerFirstAddress → changeCustomerLastAddress → changeDelieverCartId → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → updateDeliverWorkshiftByCod → printfPackage → distributorCfmDeliver,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+saveIsfrageImages → distributorCfmDeliver → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → distributorCfmDeliver → confirmChangeAddress,1
+distributorCfmDeliver → updateDeliverWorkshiftByCod → printfPackage → distributorCfmDeliver → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+verifySessionPackage → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → privateNotePackage,1
+privateNotePackage → editPackage,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDeliverCod → editPackage,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver,1
+ReturnBill → updateReturnedByCod → confirmTmpReturnedPackageStatus,1
+distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill,1
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → Refund_payment_qrBill,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+NVBCTakeAPhotoDelivery → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → TakeAPhotoPicked → saveSealForSpecialPackage → distributorCfmDeliver,1
+distributorCfmDeliver → verifySessionPackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver → NVBCConfirmImageWorkshift,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → saveIsfrageImages → privateNotePackage → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod,1
+updateReturnedByCod → confirmTmpReturnedPackageStatus → ReturnBill,1
+privateNotePackage → updateDeliverCod → editPackage,1
+privateNotePackage → changeAttributeForSurplus → updateDeliverWorkshiftByCod → NVBCTakeAPhotoDelivery → distributorCfmDeliver,1
+confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → saveIsfrageImages,1
+assignCodPicking → PickupBill → updatePickedByCod → confirmTmpPickedPackageStatus → PickupCrossProvinceBill,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → changePackageStatus → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+verifySessionPackage → verifySessionPackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver → distributorCfmDeliver → printfPackage,1
+privateNotePackage → updateDeliverWorkshiftByCod → privateNotePackage → updateDeliverWorkshiftByCod → privateNotePackage → saveSealForSpecialPackage → saveIsfrageImages → putPackages2Bag → putInBox,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → changePackageStatus → RefundBill → verifySessionPackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+printfPackage → privateNotePackage → changeAttributeForSurplus → NVBCTakeAPhotoDelivery → distributorCfmDeliver,1
+distributorCfmDeliver → ChangeDeliverCodByConfirmDeliveringByOperator → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+verifySessionPackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver → verifySessionPackage,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+smartScaleScanningPackage → smartScaleScanningPackage → importStationByDistributer → distributorCfmReturning,1
+distributorCfmDeliver → distributorCfmDeliver → saveIsfrageImages → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod,1
+privateNotePackage → distributorCfmDeliver → privateNotePackage → distributorCfmDeliver → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage,1
+distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → privateNotePackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+assignCodPicking → confirmTmpPickedPackageStatus → PickupBill → updatePickedByCod,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → privateNotePackage → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → updateDeliverWorkshiftByCod → printfPackage → verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver,1
+verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → privateNotePackage → distributorCfmDeliver,1
+assignCodPicking → PickupBill → PickupCrossProvinceBill → updatePickedByCod → confirmTmpPickedPackageStatus,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+verifySessionPackage → editPackage → changeCustomerFirstAddress → changeCustomerLastAddress → changeDelieverCartId → printfPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → RefundBill → changePackageStatus → confirmPackageHandover,1
+NVBCTakeAPhotoDelivery → NVBCConfirmImageWorkshift → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage → saveSealForSpecialPackage → saveIsfrageImages → saveSealForSpecialPackage → saveIsfrageImages → putPackages2Bag → putInBox,1
+updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → putPackages2Bag → assignBagWithIdentifyBag,1
+printfPackage → verifySessionPackage → printfPackage → confirmPackageHandover → confirmPackageHandover → putPackages2Bag → smartScaleScanningPackage → smartScaleScanningPackage → putInBox,1
+importStationByDistributer → distributorCfmReturning → smartScaleScanningPackage,1
+assignCodPicking → PickupCrossProvinceBill → confirmTmpPickedPackageStatus → PickupBill → updatePickedByCod → smartScaleScanningPackage,1
+distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → updateDeliverWorkshiftByCod,1
+updateDeliverWorkshiftByCod → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → verifySessionPackage,1
+updateDeliverWorkshiftByCod → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver → checkPackageSealScanned → saveIsfrageImages → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → checkPackageSealScanned → checkPackageSealScanned → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → privateNotePackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+assignCodPicking → PickupBill → updatePickedByCod → confirmTmpPickedPackageStatus → distributorCfmDeliver,1
+distributorCfmDeliver → verifySessionPackage → feedbackReDelivery → feedbackReDelivery → confirmIssueHandovers → distributorCfmDeliver,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → updateNotDeliveredByCod → RefundBill → confirmTmpDeliveredPackageStatus → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → ChangeDeliverCodByConfirmDeliveringByOperator → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → ChangeDeliverCodByConfirmDeliveringByOperator → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod → ChangeDeliverCodByConfirmDeliveringByOperator → verifySessionPackage,1
+RefundBill → changePackageStatus,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver,1
+RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → saveIsfrageImages → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+updateDeliverWorkshiftByCod → distributorCfmDeliver → verifySessionPackage → updateDeliverWorkshiftByCod → verifySessionPackage,1
+RefundBill → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → privateNotePackage,1
+assignCodPicking → cfmDonePrepaymnet → PrepaymentBill → PickupCrossProvinceBill → confirmTmpPickedPackageStatus → updatePickedByCod → PickupBill,1
+verifySessionPackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → verifySessionPackage → saveIsfrageImages → verifySessionPackage → distributorCfmDeliver → privateNotePackage → privateNotePackage,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → ChangeDeliverCodByConfirmDeliveringByOperator → distributorCfmDeliver,1
+verifySessionPackage → updateDeliverWorkshiftByCod → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → printfPackage → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+printfPackage → changeAttributeForSurplus → privateNotePackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver,1
+distributorCfmDeliver → updateDeliverWorkshiftByCod → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → distributorCfmDeliver → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver,1
+privateNotePackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery,1
+RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus,1
+verifySessionPackage → privateNotePackage → NVBCTakeAPhotoDelivery → distributorCfmDeliver,1
+privateNotePackage → updateDeliverWorkShiftPackage → privateNotePackage → smartScaleScanningPackage,1
+changePackageStatus → changeCodForPackagesInCart → assignCodPicking → updateDelayPickingByCod → confirmTmpPickedPackageStatus → PickupBill → assignCodPicking → updatePickedByCod → PickupCrossProvinceBill → PickupBill → confirmTmpPickedPackageStatus → smartScaleScanningPackage → printfPackage,1
+smartScaleScanningPackage → importStationByDistributer → distributorCfmReturning,1
+privateNotePackage → privateNotePackage → updateDeliverWorkshiftByCod → privateNotePackage,1
+printfPackage → confirmPackageHandover → verifySessionPackage → distributorCfmDeliver,1
+assignCodPicking → confirmTmpPickedPackageStatus → PickupBill → updatePickedByCod → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+verifySessionPackage → distributorCfmDeliver → privateNotePackage → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+ScanPackageToBag → ScanPackageToBag,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill → verifySessionPackage,1
+updateDeliverWorkshiftByCod → NVBCConfirmImageWorkshift → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod → confirmTmpDeliveredPackageStatus → RefundBill,1
+updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → saveIsfrageImages,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → privateNotePackage → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod → verifySessionPackage,1
+printfPackage → updateDeliverWorkshiftByCod → privateNotePackage → changeAttributeForSurplus → distributorCfmDeliver,1
+verifySessionPackage → verifySessionPackage → importStationByDistributer → distributorCfmReturning → smartScaleScanningPackage,1
+verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifySessionPackage → distributorCfmDeliver,1
+verifySessionPackage → printfPackage → verifySessionPackage,1
+distributorCfmDeliver → privateNotePackage → verifySessionPackage,1
+PickupBill → confirmTmpPickedPackageStatus → updateDelayPickingByCod,1
+NVBCTakeAPhotoDelivery → verifySessionPackage,1
+privateNotePackage → updateDeliverWorkShiftPackage → reassignDeliverCart → distributorCfmDeliver,1
+distributorCfmDeliver → RefundBill → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage → verifySessionPackage,1
+privateNotePackage → checkPackageSealScanned → saveIsfrageImages → distributorCfmDeliver,1
+verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → privateNotePackage → updateDeliverWorkshiftByCod → distributorCfmDeliver,1
+distributorCfmDeliver → privateNotePackage → confirmTmpDeliveredPackageStatus → RefundBill → updateDelayDeliveringByCod → distributorCfmDeliver,1
+distributorCfmDeliver → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → NVBCConfirmImageWorkshift → confirmTmpDeliveredPackageStatus → updateNotDeliveredByCod → RefundBill → verifySessionPackage,1
+updatePickedByCod → confirmTmpPickedPackageStatus → PickupBill → PickupCrossProvinceBill,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → updateDelayDeliveringByCod → RefundBill → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+printPackageBBS → printfPackage → distributorCfmDeliver,1
+changePackageStatus → changeCodForPackagesInCart → PickupCrossProvinceBill → PickupBill → updatePickedByCod → confirmTmpPickedPackageStatus,1
+confirmTmpDeliveredPackageStatus → updatePartDeliveredByCod → Refund_payment_qrBill,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → distributorCfmDeliver → distributorCfmDeliver → verifySessionPackage → putPackages2Bag → assignBagWithIdentifyBag,1
+verifySessionPackage → distributorCfmDeliver → verifySessionPackage → verifySessionPackage → verifySessionPackage,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+distributorCfmDeliver → RefundBill → updateDelayDeliveringByCod → confirmTmpDeliveredPackageStatus → distributorCfmDeliver,1
+verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifyStationSessionPackageOfBagExtra → verifySessionPackage → verifySessionPackage → putPackages2Bag → smartScaleScanningPackage → assignBagWithIdentifyBag,1
+distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → updateDelayDeliveringByCod → RefundBill → distributorCfmDeliver → confirmTmpDeliveredPackageStatus → RefundBill → updateNotDeliveredByCod,1
+updateDeliverWorkshiftByCod → printfPackage → printfPackage → privateNotePackage → changeAttributeForSurplus → distributorCfmDeliver,1
+saveIsfrageImages → privateNotePackage → Refund_paymentBill → confirmTmpDeliveredPackageStatus → updateDeliveredCompletelyByCod,1
+verifySessionPackage → verifySessionPackage → feedbackReDelivery → confirmIssueHandovers → feedbackReDelivery → distributorCfmDeliver,1
